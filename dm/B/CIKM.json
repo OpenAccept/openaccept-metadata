@@ -1,0 +1,116 @@
+{
+  "name": "CIKM",
+  "full_name": "ACM International Conference on Information and Knowledge Management",
+  "website": "https://dl.acm.org/conference/cikm",
+  "dblp": "https://dblp.org/db/conf/cikm/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 443,
+      "submitted": 1627
+    },
+    {
+      "year": 2024,
+      "accepted": 347,
+      "submitted": 1496
+    },
+    {
+      "year": 2023,
+      "accepted": 354,
+      "submitted": 1472
+    },
+    {
+      "year": 2022,
+      "accepted": 274,
+      "submitted": 1175
+    },
+    {
+      "year": 2021,
+      "accepted": 271,
+      "submitted": 1251
+    },
+    {
+      "year": 2020,
+      "accepted": 274,
+      "submitted": 1175
+    },
+    {
+      "year": 2019,
+      "accepted": 202,
+      "submitted": 1031
+    },
+    {
+      "year": 2018,
+      "accepted": 147,
+      "submitted": 826
+    },
+    {
+      "year": 2017,
+      "accepted": 171,
+      "submitted": 855
+    },
+    {
+      "year": 2016,
+      "accepted": 160,
+      "submitted": 701
+    },
+    {
+      "year": 2015,
+      "accepted": 165,
+      "submitted": 646
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 141,
+      "submitted": 527
+    },
+    {
+      "year": 2023,
+      "accepted": 152,
+      "submitted": 554
+    },
+    {
+      "year": 2022,
+      "accepted": 196,
+      "submitted": 675
+    },
+    {
+      "year": 2021,
+      "accepted": 177,
+      "submitted": 626
+    },
+    {
+      "year": 2020,
+      "accepted": 196,
+      "submitted": 675
+    },
+    {
+      "year": 2019,
+      "accepted": 107,
+      "submitted": 471
+    },
+    {
+      "year": 2018,
+      "accepted": 96,
+      "submitted": 413
+    },
+    {
+      "year": 2017,
+      "accepted": 119,
+      "submitted": 419
+    },
+    {
+      "year": 2016,
+      "accepted": 55,
+      "submitted": 234
+    },
+    {
+      "year": 2015,
+      "accepted": 69,
+      "submitted": 276
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "USENIX Security",
+  "full_name": "USENIX Security Symposium. ",
+  "website": "https://www.usenix.org/conferences/byname/108",
+  "dblp": "https://dblp.org/db/conf/usenix security/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 417,
+      "submitted": 2176
+    },
+    {
+      "year": 2023,
+      "accepted": 422,
+      "submitted": 1444
+    },
+    {
+      "year": 2022,
+      "accepted": 256,
+      "submitted": 1414
+    },
+    {
+      "year": 2021,
+      "accepted": 246,
+      "submitted": 1294
+    },
+    {
+      "year": 2020,
+      "accepted": 157,
+      "submitted": 977
+    },
+    {
+      "year": 2019,
+      "accepted": 113,
+      "submitted": 697
+    },
+    {
+      "year": 2018,
+      "accepted": 100,
+      "submitted": 500
+    },
+    {
+      "year": 2017,
+      "accepted": 85,
+      "submitted": 553
+    },
+    {
+      "year": 2016,
+      "accepted": 72,
+      "submitted": 451
+    },
+    {
+      "year": 2015,
+      "accepted": 67,
+      "submitted": 407
+    },
+    {
+      "year": 2014,
+      "accepted": 67,
+      "submitted": 350
+    },
+    {
+      "year": 2013,
+      "accepted": 44,
+      "submitted": 277
+    }
+  ],
+  "second_track": null
+}

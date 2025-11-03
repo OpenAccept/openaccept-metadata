@@ -1,0 +1,121 @@
+{
+  "name": "IMC",
+  "full_name": "ACM Internet Measurement Conference",
+  "website": "https://www.sigcomm.org/events/imc",
+  "dblp": "https://dblp.org/db/conf/imc/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 30,
+      "submitted": 158
+    },
+    {
+      "year": 2023,
+      "accepted": 38,
+      "submitted": 137
+    },
+    {
+      "year": 2022,
+      "accepted": 38,
+      "submitted": 143
+    },
+    {
+      "year": 2021,
+      "accepted": 38,
+      "submitted": 135
+    },
+    {
+      "year": 2020,
+      "accepted": 38,
+      "submitted": 142
+    },
+    {
+      "year": 2019,
+      "accepted": 29,
+      "submitted": 118
+    },
+    {
+      "year": 2017,
+      "accepted": 28,
+      "submitted": 100
+    },
+    {
+      "year": 2016,
+      "accepted": 25,
+      "submitted": 104
+    },
+    {
+      "year": 2015,
+      "accepted": 31,
+      "submitted": 96
+    },
+    {
+      "year": 2014,
+      "accepted": 32,
+      "submitted": 103
+    },
+    {
+      "year": 2013,
+      "accepted": 25,
+      "submitted": 92
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 25,
+      "submitted": 91
+    },
+    {
+      "year": 2023,
+      "accepted": 14,
+      "submitted": 64
+    },
+    {
+      "year": 2022,
+      "accepted": 18,
+      "submitted": 69
+    },
+    {
+      "year": 2021,
+      "accepted": 15,
+      "submitted": 61
+    },
+    {
+      "year": 2020,
+      "accepted": 15,
+      "submitted": 74
+    },
+    {
+      "year": 2019,
+      "accepted": 10,
+      "submitted": 79
+    },
+    {
+      "year": 2017,
+      "accepted": 14,
+      "submitted": 79
+    },
+    {
+      "year": 2016,
+      "accepted": 21,
+      "submitted": 80
+    },
+    {
+      "year": 2015,
+      "accepted": 12,
+      "submitted": 73
+    },
+    {
+      "year": 2014,
+      "accepted": 11,
+      "submitted": 85
+    },
+    {
+      "year": 2013,
+      "accepted": 17,
+      "submitted": 86
+    }
+  ]
+}

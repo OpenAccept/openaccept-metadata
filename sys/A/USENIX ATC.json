@@ -1,0 +1,121 @@
+{
+  "name": "USENIX ATC",
+  "full_name": "USENIX Annual Technical Conference",
+  "website": "https://www.usenix.org/conferences/byname/131",
+  "dblp": "https://dblp.org/db/conf/usenix atc/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 77,
+      "submitted": 481
+    },
+    {
+      "year": 2023,
+      "accepted": 62,
+      "submitted": 334
+    },
+    {
+      "year": 2022,
+      "accepted": 62,
+      "submitted": 371
+    },
+    {
+      "year": 2021,
+      "accepted": 63,
+      "submitted": 316
+    },
+    {
+      "year": 2020,
+      "accepted": 65,
+      "submitted": 348
+    },
+    {
+      "year": 2019,
+      "accepted": 69,
+      "submitted": 321
+    },
+    {
+      "year": 2018,
+      "accepted": 72,
+      "submitted": 347
+    },
+    {
+      "year": 2017,
+      "accepted": 57,
+      "submitted": 254
+    },
+    {
+      "year": 2016,
+      "accepted": 46,
+      "submitted": 213
+    },
+    {
+      "year": 2015,
+      "accepted": 45,
+      "submitted": 189
+    },
+    {
+      "year": 2014,
+      "accepted": 31,
+      "submitted": 196
+    },
+    {
+      "year": 2013,
+      "accepted": 27,
+      "submitted": 195
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2023,
+      "accepted": 3,
+      "submitted": 19
+    },
+    {
+      "year": 2022,
+      "accepted": 2,
+      "submitted": 23
+    },
+    {
+      "year": 2021,
+      "accepted": 1,
+      "submitted": 25
+    },
+    {
+      "year": 2019,
+      "accepted": 2,
+      "submitted": 32
+    },
+    {
+      "year": 2018,
+      "accepted": 4,
+      "submitted": 30
+    },
+    {
+      "year": 2017,
+      "accepted": 3,
+      "submitted": 29
+    },
+    {
+      "year": 2016,
+      "accepted": 1,
+      "submitted": 35
+    },
+    {
+      "year": 2015,
+      "accepted": 2,
+      "submitted": 32
+    },
+    {
+      "year": 2014,
+      "accepted": 5,
+      "submitted": 49
+    },
+    {
+      "year": 2013,
+      "accepted": 6,
+      "submitted": 38
+    }
+  ]
+}

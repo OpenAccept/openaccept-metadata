@@ -1,0 +1,76 @@
+{
+  "name": "CVPR",
+  "full_name": "International Conference on Computer Vision and Pattern Recognition",
+  "website": [
+    "https://cvpr.thecvf.com"
+  ],
+  "dblp": "https://dblp.org/db/conf/cvpr/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 2878,
+      "submitted": 13008
+    },
+    {
+      "year": 2024,
+      "accepted": 2719,
+      "submitted": 11532
+    },
+    {
+      "year": 2023,
+      "accepted": 2359,
+      "submitted": 9155
+    },
+    {
+      "year": 2022,
+      "accepted": 2064,
+      "submitted": 8161
+    },
+    {
+      "year": 2021,
+      "accepted": 1663,
+      "submitted": 7015
+    },
+    {
+      "year": 2020,
+      "accepted": 1470,
+      "submitted": 6656
+    },
+    {
+      "year": 2019,
+      "accepted": 1300,
+      "submitted": 5165
+    },
+    {
+      "year": 2018,
+      "accepted": 979,
+      "submitted": 3303
+    },
+    {
+      "year": 2017,
+      "accepted": 783,
+      "submitted": 2620
+    },
+    {
+      "year": 2016,
+      "accepted": 643,
+      "submitted": 1865
+    },
+    {
+      "year": 2015,
+      "accepted": 602,
+      "submitted": 1815
+    },
+    {
+      "year": 2014,
+      "accepted": 540,
+      "submitted": 1778
+    },
+    {
+      "year": 2013,
+      "accepted": 472,
+      "submitted": 1798
+    }
+  ],
+  "second_track": null
+}

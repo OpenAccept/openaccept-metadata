@@ -1,0 +1,69 @@
+{
+  "name": "CCC",
+  "full_name": "Computational Complexity Conference",
+  "website": "https://computationalcomplexity.org/",
+  "dblp": "https://dblp.org/db/conf/ccc/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 36,
+      "submitted": 105
+    },
+    {
+      "year": 2023,
+      "accepted": 36,
+      "submitted": 74
+    },
+    {
+      "year": 2022,
+      "accepted": 38,
+      "submitted": 89
+    },
+    {
+      "year": 2021,
+      "accepted": 41,
+      "submitted": 116
+    },
+    {
+      "year": 2020,
+      "accepted": 38,
+      "submitted": 101
+    },
+    {
+      "year": 2019,
+      "accepted": 32,
+      "submitted": 99
+    },
+    {
+      "year": 2018,
+      "accepted": 28,
+      "submitted": 74
+    },
+    {
+      "year": 2017,
+      "accepted": 33,
+      "submitted": 98
+    },
+    {
+      "year": 2016,
+      "accepted": 34,
+      "submitted": 91
+    },
+    {
+      "year": 2015,
+      "accepted": 30,
+      "submitted": 110
+    },
+    {
+      "year": 2014,
+      "accepted": 29,
+      "submitted": 94
+    },
+    {
+      "year": 2013,
+      "accepted": 29,
+      "submitted": 90
+    }
+  ],
+  "second_track": null
+}

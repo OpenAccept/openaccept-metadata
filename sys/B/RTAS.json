@@ -1,0 +1,69 @@
+{
+  "name": "RTAS",
+  "full_name": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+  "website": "https://www.rtas.org/",
+  "dblp": "https://dblp.org/db/conf/rtas/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 29,
+      "submitted": 124
+    },
+    {
+      "year": 2023,
+      "accepted": 25,
+      "submitted": 93
+    },
+    {
+      "year": 2022,
+      "accepted": 22,
+      "submitted": 91
+    },
+    {
+      "year": 2021,
+      "accepted": 31,
+      "submitted": 114
+    },
+    {
+      "year": 2020,
+      "accepted": 29,
+      "submitted": 107
+    },
+    {
+      "year": 2019,
+      "accepted": 30,
+      "submitted": 116
+    },
+    {
+      "year": 2018,
+      "accepted": 27,
+      "submitted": 79
+    },
+    {
+      "year": 2017,
+      "accepted": 29,
+      "submitted": 85
+    },
+    {
+      "year": 2016,
+      "accepted": 25,
+      "submitted": 92
+    },
+    {
+      "year": 2015,
+      "accepted": 27,
+      "submitted": 124
+    },
+    {
+      "year": 2014,
+      "accepted": 27,
+      "submitted": 133
+    },
+    {
+      "year": 2013,
+      "accepted": 28,
+      "submitted": 96
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,74 @@
+{
+  "name": "ICALP",
+  "full_name": "International Colloquium on Automata, Languages and Programming",
+  "website": "https://eatcs.org/index.php/international-colloquium",
+  "dblp": "https://dblp.org/db/conf/icalp/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 170,
+      "submitted": 580
+    },
+    {
+      "year": 2024,
+      "accepted": 153,
+      "submitted": 519
+    },
+    {
+      "year": 2023,
+      "accepted": 132,
+      "submitted": 443
+    },
+    {
+      "year": 2022,
+      "accepted": 127,
+      "submitted": 433
+    },
+    {
+      "year": 2021,
+      "accepted": 137,
+      "submitted": 362
+    },
+    {
+      "year": 2020,
+      "accepted": 138,
+      "submitted": 470
+    },
+    {
+      "year": 2019,
+      "accepted": 146,
+      "submitted": 490
+    },
+    {
+      "year": 2018,
+      "accepted": 147,
+      "submitted": 502
+    },
+    {
+      "year": 2017,
+      "accepted": 137,
+      "submitted": 459
+    },
+    {
+      "year": 2016,
+      "accepted": 146,
+      "submitted": 515
+    },
+    {
+      "year": 2015,
+      "accepted": 143,
+      "submitted": 507
+    },
+    {
+      "year": 2014,
+      "accepted": 136,
+      "submitted": 484
+    },
+    {
+      "year": 2013,
+      "accepted": 124,
+      "submitted": 422
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,66 @@
+{
+  "name": "CHI",
+  "full_name": "ACM Conference on Human Factors in Computing Systems",
+  "website": "https://archive.sigchi.org/conferences/conference-history/chi/",
+  "dblp": "https://dblp.org/db/conf/chi/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1249,
+      "submitted": 5020,
+      "source": "https://chi2025.acm.org/chi-2025-papers-track-post-pc-outcomes-report/"
+    },
+    {
+      "year": 2024,
+      "accepted": 1060,
+      "submitted": 4046,
+      "source": "https://chi2024.acm.org/2024/01/29/chi-2024-papers-track-post-pc-outcomes-report/"
+    },
+    {
+      "year": 2023,
+      "accepted": 879,
+      "submitted": 3182
+    },
+    {
+      "year": 2022,
+      "accepted": 637,
+      "submitted": 2579
+    },
+    {
+      "year": 2021,
+      "accepted": 747,
+      "submitted": 2845
+    },
+    {
+      "year": 2020,
+      "accepted": 760,
+      "submitted": 3126
+    },
+    {
+      "year": 2019,
+      "accepted": 703,
+      "submitted": 2958
+    },
+    {
+      "year": 2018,
+      "accepted": 666,
+      "submitted": 2592
+    },
+    {
+      "year": 2017,
+      "accepted": 600,
+      "submitted": 2400
+    },
+    {
+      "year": 2016,
+      "accepted": 565,
+      "submitted": 2435
+    },
+    {
+      "year": 2015,
+      "accepted": 379,
+      "submitted": 1520
+    }
+  ],
+  "second_track": null
+}

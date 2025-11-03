@@ -1,0 +1,26 @@
+{
+  "name": "WSDM",
+  "full_name": "ACM International Conference on Web Search and Data Mining",
+  "website": "https://www.wsdm-conference.org/",
+  "dblp": "https://dblp.org/db/conf/wsdm/index.html",
+  "yearly_data": [
+    { "year": 2026, "accepted": 100, "submitted": 613 },
+    { "year": 2025, "accepted": 106, "submitted": 613 },
+    { "year": 2024, "accepted": 109, "submitted": 615 },
+    { "year": 2023, "accepted": 123, "submitted": 690 },
+    { "year": 2022, "accepted": 80, "submitted": 505 },
+    { "year": 2021, "accepted": 112, "submitted": 603 },
+    { "year": 2020, "accepted": 91, "submitted": 615 },
+    { "year": 2019, "accepted": 84, "submitted": 511 },
+    { "year": 2018, "accepted": 84, "submitted": 514 },
+    { "year": 2017, "accepted": 80, "submitted": 505 },
+    { "year": 2016, "accepted": 67, "submitted": 368 },
+    { "year": 2015, "accepted": 39, "submitted": 238 },
+    { "year": 2014, "accepted": 64, "submitted": 355 }
+  ],
+  "sources":[
+    "https://github.com/lixin4ever/Conference-Acceptance-Rate?tab=readme-ov-file#artificial-intelligence",
+    "https://csconfstats.xoveexu.com/?conf=WSDM"
+  ],
+  "remarks": "Statistics only cover full research papers, excluding short, workshop, ADS, and demo papers."
+}

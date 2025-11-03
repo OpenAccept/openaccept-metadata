@@ -1,0 +1,24 @@
+{
+  "name": "UbiComp",
+  "full_name": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+  "website": "ubicomp.org",
+  "dblp": "https://dblp.org/db/conf/ubicomp/index.html",
+  "yearly_data": [
+    {
+      "year": 2016,
+      "accepted": 101,
+      "submitted": 389
+    },
+    {
+      "year": 2014,
+      "accepted": 71,
+      "submitted": 454
+    },
+    {
+      "year": 2013,
+      "accepted": 92,
+      "submitted": 394
+    }
+  ],
+  "second_track": null
+}

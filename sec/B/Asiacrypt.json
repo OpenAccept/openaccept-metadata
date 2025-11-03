@@ -1,0 +1,69 @@
+{
+  "name": "Asiacrypt",
+  "full_name": "Asiacrypt: International Conference on the Theory and Application of Cryptology and Information Security",
+  "website": "https://www.iacr.org/meetings/asiacrypt/",
+  "dblp": "https://dblp.org/db/conf/asiacrypt/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 127,
+      "submitted": 433
+    },
+    {
+      "year": 2023,
+      "accepted": 106,
+      "submitted": 375
+    },
+    {
+      "year": 2022,
+      "accepted": 98,
+      "submitted": 363
+    },
+    {
+      "year": 2021,
+      "accepted": 95,
+      "submitted": 332
+    },
+    {
+      "year": 2020,
+      "accepted": 85,
+      "submitted": 328
+    },
+    {
+      "year": 2019,
+      "accepted": 71,
+      "submitted": 307
+    },
+    {
+      "year": 2018,
+      "accepted": 65,
+      "submitted": 234
+    },
+    {
+      "year": 2017,
+      "accepted": 67,
+      "submitted": 243
+    },
+    {
+      "year": 2016,
+      "accepted": 67,
+      "submitted": 240
+    },
+    {
+      "year": 2015,
+      "accepted": 64,
+      "submitted": 251
+    },
+    {
+      "year": 2014,
+      "accepted": 55,
+      "submitted": 255
+    },
+    {
+      "year": 2013,
+      "accepted": 54,
+      "submitted": 269
+    }
+  ],
+  "second_track": null
+}

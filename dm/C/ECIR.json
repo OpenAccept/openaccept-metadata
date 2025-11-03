@@ -1,0 +1,143 @@
+{
+  "name": "ECIR",
+  "full_name": "European Conference on Information Retrieval",
+  "website": "",
+  "dblp": "https://dblp.org/db/conf/ecir/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 52,
+      "submitted": 226,
+      "source": "https://link.springer.com/book/10.1007/978-3-031-88708-6"
+    },
+    {
+      "year": 2024,
+      "accepted": 57,
+      "submitted": 230
+    },
+    {
+      "year": 2023,
+      "accepted": 57,
+      "submitted": 224
+    },
+    {
+      "year": 2022,
+      "accepted": 35,
+      "submitted": 175
+    },
+    {
+      "year": 2021,
+      "accepted": 50,
+      "submitted": 208
+    },
+    {
+      "year": 2020,
+      "accepted": 55,
+      "submitted": 212
+    },
+    {
+      "year": 2019,
+      "accepted": 39,
+      "submitted": 170
+    },
+    {
+      "year": 2018,
+      "accepted": 39,
+      "submitted": 171
+    },
+    {
+      "year": 2017,
+      "accepted": 36,
+      "submitted": 135
+    },
+    {
+      "year": 2016,
+      "accepted": 50,
+      "submitted": 201
+    },
+    {
+      "year": 2015,
+      "accepted": 44,
+      "submitted": 190
+    },
+    {
+      "year": 2014,
+      "accepted": 33,
+      "submitted": 142
+    },
+    {
+      "year": 2013,
+      "accepted": 55,
+      "submitted": 191
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 42,
+      "submitted": 162,
+      "source": "https://link.springer.com/book/10.1007/978-3-319-26305-5"
+    },
+    {
+      "year": 2024,
+      "accepted": 36,
+      "submitted": 150
+    },
+    {
+      "year": 2023,
+      "accepted": 41,
+      "submitted": 152
+    },
+    {
+      "year": 2022,
+      "accepted": 29,
+      "submitted": 132
+    },
+    {
+      "year": 2021,
+      "accepted": 39,
+      "submitted": 156
+    },
+    {
+      "year": 2020,
+      "accepted": 46,
+      "submitted": 164
+    },
+    {
+      "year": 2019,
+      "accepted": 44,
+      "submitted": 152
+    },
+    {
+      "year": 2018,
+      "accepted": 39,
+      "submitted": 112
+    },
+    {
+      "year": 2017,
+      "accepted": 35,
+      "submitted": 110
+    },
+    {
+      "year": 2016,
+      "accepted": 20,
+      "submitted": 66
+    },
+    {
+      "year": 2015,
+      "accepted": 39,
+      "submitted": 103
+    },
+    {
+      "year": 2014,
+      "accepted": 50,
+      "submitted": 120
+    },
+    {
+      "year": 2013,
+      "accepted": 38,
+      "submitted": 78
+    }
+  ]
+}

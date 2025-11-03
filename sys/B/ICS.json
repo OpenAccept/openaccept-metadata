@@ -1,0 +1,69 @@
+{
+  "name": "ICS",
+  "full_name": "International Conference on Supercomputing",
+  "website": "https://www.ics-conference.org/",
+  "dblp": "https://dblp.org/db/conf/ics/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 45,
+      "submitted": 125
+    },
+    {
+      "year": 2023,
+      "accepted": 40,
+      "submitted": 136
+    },
+    {
+      "year": 2022,
+      "accepted": 39,
+      "submitted": 165
+    },
+    {
+      "year": 2021,
+      "accepted": 39,
+      "submitted": 157
+    },
+    {
+      "year": 2020,
+      "accepted": 40,
+      "submitted": 132
+    },
+    {
+      "year": 2019,
+      "accepted": 45,
+      "submitted": 193
+    },
+    {
+      "year": 2018,
+      "accepted": 36,
+      "submitted": 193
+    },
+    {
+      "year": 2017,
+      "accepted": 28,
+      "submitted": 177
+    },
+    {
+      "year": 2016,
+      "accepted": 43,
+      "submitted": 180
+    },
+    {
+      "year": 2015,
+      "accepted": 40,
+      "submitted": 160
+    },
+    {
+      "year": 2014,
+      "accepted": 34,
+      "submitted": 160
+    },
+    {
+      "year": 2013,
+      "accepted": 43,
+      "submitted": 202
+    }
+  ],
+  "second_track": null
+}

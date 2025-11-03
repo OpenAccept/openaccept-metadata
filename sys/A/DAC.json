@@ -1,0 +1,49 @@
+{
+  "name": "DAC",
+  "full_name": "Design Automation Conference",
+  "website": "https://www.dac.com/",
+  "dblp": "https://dblp.org/db/conf/dac/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 337,
+      "submitted": 1545
+    },
+    {
+      "year": 2023,
+      "accepted": 263,
+      "submitted": 1156
+    },
+    {
+      "year": 2022,
+      "accepted": 223,
+      "submitted": 987
+    },
+    {
+      "year": 2021,
+      "accepted": 215,
+      "submitted": 914
+    },
+    {
+      "year": 2020,
+      "accepted": 228,
+      "submitted": 984
+    },
+    {
+      "year": 2019,
+      "accepted": 202,
+      "submitted": 815
+    },
+    {
+      "year": 2018,
+      "accepted": 168,
+      "submitted": 691
+    },
+    {
+      "year": 2013,
+      "accepted": 155,
+      "submitted": 740
+    }
+  ],
+  "second_track": null
+}

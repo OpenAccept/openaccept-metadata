@@ -1,0 +1,107 @@
+{
+  "name": "EMNLP",
+  "full_name": "Conference on Empirical Methods in Natural Language Processing",
+  "website": "https://sigdat.org",
+  "dblp": "https://dblp.org/db/conf/emnlp/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1811,
+      "submitted": 8174
+    },
+    {
+      "year": 2024,
+      "accepted": 1271,
+      "submitted": 6105
+    },
+    {
+      "year": 2023,
+      "accepted": 1047,
+      "submitted": 4909
+    },
+    {
+      "year": 2022,
+      "accepted": 829,
+      "submitted": 4190
+    },
+    {
+      "year": 2021,
+      "accepted": 840,
+      "submitted": 3600
+    },
+    {
+      "year": 2020,
+      "accepted": 752,
+      "submitted": 3359
+    },
+    {
+      "year": 2019,
+      "accepted": 683,
+      "submitted": 2876
+    },
+    {
+      "year": 2018,
+      "accepted": 549,
+      "submitted": 2231
+    },
+    {
+      "year": 2017,
+      "accepted": 323,
+      "submitted": 1418
+    },
+    {
+      "year": 2016,
+      "accepted": 264,
+      "submitted": 1087
+    },
+    {
+      "year": 2015,
+      "accepted": 312,
+      "submitted": 1300
+    },
+    {
+      "year": 2014,
+      "accepted": 225,
+      "submitted": 790
+    },
+    {
+      "year": 2013,
+      "accepted": 205,
+      "submitted": 772
+    }
+  ],
+  "second_track": "Findings",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1418,
+      "submitted": 8174
+    },
+    {
+      "year": 2024,
+      "accepted": 1029,
+      "submitted": 6105
+    },
+    {
+      "year": 2023,
+      "accepted": 1060,
+      "submitted": 4909
+    },
+    {
+      "year": 2022,
+      "accepted": 549,
+      "submitted": 4190
+    },
+    {
+      "year": 2021,
+      "accepted": 419,
+      "submitted": 3600
+    },
+    {
+      "year": 2020,
+      "accepted": 447,
+      "submitted": 3359
+    }
+  ],
+  "remarks": "In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue."
+}

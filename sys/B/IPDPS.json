@@ -1,0 +1,69 @@
+{
+  "name": "IPDPS",
+  "full_name": "IEEE International Parallel and Distributed Processing Symposium",
+  "website": "https://www.ipdps.org/",
+  "dblp": "https://dblp.org/db/conf/ipdps/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 88,
+      "submitted": 337
+    },
+    {
+      "year": 2023,
+      "accepted": 95,
+      "submitted": 369
+    },
+    {
+      "year": 2022,
+      "accepted": 123,
+      "submitted": 474
+    },
+    {
+      "year": 2021,
+      "accepted": 105,
+      "submitted": 462
+    },
+    {
+      "year": 2020,
+      "accepted": 110,
+      "submitted": 446
+    },
+    {
+      "year": 2019,
+      "accepted": 103,
+      "submitted": 372
+    },
+    {
+      "year": 2018,
+      "accepted": 113,
+      "submitted": 436
+    },
+    {
+      "year": 2017,
+      "accepted": 116,
+      "submitted": 508
+    },
+    {
+      "year": 2016,
+      "accepted": 114,
+      "submitted": 496
+    },
+    {
+      "year": 2015,
+      "accepted": 109,
+      "submitted": 496
+    },
+    {
+      "year": 2014,
+      "accepted": 114,
+      "submitted": 541
+    },
+    {
+      "year": 2013,
+      "accepted": 108,
+      "submitted": 500
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "ASE",
+  "full_name": "ACM/IEEE International Conference on Automated Software Engineering",
+  "website": "https://ase-conferences.org/",
+  "dblp": "https://dblp.org/db/conf/ase/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 155,
+      "submitted": 568
+    },
+    {
+      "year": 2023,
+      "accepted": 134,
+      "submitted": 630
+    },
+    {
+      "year": 2022,
+      "accepted": 116,
+      "submitted": 527
+    },
+    {
+      "year": 2021,
+      "accepted": 82,
+      "submitted": 427
+    },
+    {
+      "year": 2020,
+      "accepted": 93,
+      "submitted": 408
+    },
+    {
+      "year": 2019,
+      "accepted": 77,
+      "submitted": 377
+    },
+    {
+      "year": 2018,
+      "accepted": 64,
+      "submitted": 315
+    },
+    {
+      "year": 2017,
+      "accepted": 65,
+      "submitted": 314
+    },
+    {
+      "year": 2016,
+      "accepted": 53,
+      "submitted": 284
+    },
+    {
+      "year": 2015,
+      "accepted": 55,
+      "submitted": 289
+    },
+    {
+      "year": 2014,
+      "accepted": 55,
+      "submitted": 276
+    },
+    {
+      "year": 2013,
+      "accepted": 43,
+      "submitted": 310
+    }
+  ],
+  "second_track": null
+}

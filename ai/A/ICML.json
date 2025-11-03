@@ -1,0 +1,69 @@
+{
+  "name": "ICML",
+  "full_name": "International Conference on Machine Learning",
+  "website": "https://icml.cc",
+  "dblp": "https://dblp.org/db/conf/icml/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 3260,
+      "submitted": 12107
+    },
+    {
+      "year": 2024,
+      "accepted": 2609,
+      "submitted": 9473
+    },
+    {
+      "year": 2023,
+      "accepted": 1827,
+      "submitted": 6538
+    },
+    {
+      "year": 2022,
+      "accepted": 1235,
+      "submitted": 5630
+    },
+    {
+      "year": 2021,
+      "accepted": 1184,
+      "submitted": 5513
+    },
+    {
+      "year": 2020,
+      "accepted": 1088,
+      "submitted": 4990
+    },
+    {
+      "year": 2019,
+      "accepted": 774,
+      "submitted": 3424
+    },
+    {
+      "year": 2018,
+      "accepted": 621,
+      "submitted": 2473
+    },
+    {
+      "year": 2017,
+      "accepted": 434,
+      "submitted": 1676
+    },
+    {
+      "year": 2016,
+      "accepted": 322,
+      "submitted": 1320
+    },
+    {
+      "year": 2015,
+      "accepted": 270,
+      "submitted": 1037
+    },
+    {
+      "year": 2014,
+      "accepted": 310,
+      "submitted": 1238
+    }
+  ],
+  "second_track": null
+}

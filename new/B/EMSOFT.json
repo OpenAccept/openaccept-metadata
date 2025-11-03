@@ -1,0 +1,59 @@
+{
+  "name": "EMSOFT",
+  "full_name": "International Conference on Embedded Software",
+  "website": "https://sigbed.org/",
+  "dblp": "https://dblp.org/db/conf/emsoft/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 28,
+      "submitted": 129
+    },
+    {
+      "year": 2023,
+      "accepted": 21,
+      "submitted": 90
+    },
+    {
+      "year": 2022,
+      "accepted": 30,
+      "submitted": 118
+    },
+    {
+      "year": 2021,
+      "accepted": 28,
+      "submitted": 111
+    },
+    {
+      "year": 2020,
+      "accepted": 35,
+      "submitted": 138
+    },
+    {
+      "year": 2018,
+      "accepted": 27,
+      "submitted": 111
+    },
+    {
+      "year": 2016,
+      "accepted": 25,
+      "submitted": 97
+    },
+    {
+      "year": 2015,
+      "accepted": 22,
+      "submitted": 85
+    },
+    {
+      "year": 2014,
+      "accepted": 29,
+      "submitted": 117
+    },
+    {
+      "year": 2013,
+      "accepted": 27,
+      "submitted": 97
+    }
+  ],
+  "second_track": null
+}

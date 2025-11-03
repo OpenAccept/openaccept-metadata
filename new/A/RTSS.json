@@ -1,0 +1,64 @@
+{
+  "name": "RTSS",
+  "full_name": "IEEE Real-Time Systems Symposium",
+  "website": "https://www.rtss.org",
+  "dblp": "https://dblp.org/db/conf/rtss/index.html",
+  "yearly_data": [
+    {
+      "year": 2023,
+      "accepted": 32,
+      "submitted": 126
+    },
+    {
+      "year": 2022,
+      "accepted": 37,
+      "submitted": 128
+    },
+    {
+      "year": 2021,
+      "accepted": 39,
+      "submitted": 133
+    },
+    {
+      "year": 2020,
+      "accepted": 28,
+      "submitted": 140
+    },
+    {
+      "year": 2019,
+      "accepted": 39,
+      "submitted": 160
+    },
+    {
+      "year": 2018,
+      "accepted": 37,
+      "submitted": 166
+    },
+    {
+      "year": 2017,
+      "accepted": 31,
+      "submitted": 131
+    },
+    {
+      "year": 2016,
+      "accepted": 32,
+      "submitted": 137
+    },
+    {
+      "year": 2015,
+      "accepted": 34,
+      "submitted": 151
+    },
+    {
+      "year": 2014,
+      "accepted": 33,
+      "submitted": 154
+    },
+    {
+      "year": 2013,
+      "accepted": 36,
+      "submitted": 160
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,64 @@
+{
+  "name": "MICRO",
+  "full_name": "IEEE/ACM International Symposium on Microarchitecture",
+  "website": "https://microarch.org",
+  "dblp": "https://dblp.org/db/conf/micro/index.html",
+  "yearly_data": [
+    {
+      "year": 2023,
+      "accepted": 101,
+      "submitted": 434
+    },
+    {
+      "year": 2022,
+      "accepted": 83,
+      "submitted": 366
+    },
+    {
+      "year": 2021,
+      "accepted": 94,
+      "submitted": 430
+    },
+    {
+      "year": 2020,
+      "accepted": 82,
+      "submitted": 446
+    },
+    {
+      "year": 2019,
+      "accepted": 79,
+      "submitted": 344
+    },
+    {
+      "year": 2018,
+      "accepted": 74,
+      "submitted": 351
+    },
+    {
+      "year": 2017,
+      "accepted": 61,
+      "submitted": 327
+    },
+    {
+      "year": 2016,
+      "accepted": 61,
+      "submitted": 288
+    },
+    {
+      "year": 2015,
+      "accepted": 61,
+      "submitted": 283
+    },
+    {
+      "year": 2014,
+      "accepted": 53,
+      "submitted": 279
+    },
+    {
+      "year": 2013,
+      "accepted": 39,
+      "submitted": 239
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,102 @@
+{
+  "name": "SIGMETRICS",
+  "full_name": "ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems",
+  "website": "https://www.sigmetrics.org/index.shtml",
+  "dblp": "https://dblp.org/db/conf/sigmetrics/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 66,
+      "submitted": 382,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3726854"
+    },
+    {
+      "year": 2024,
+      "accepted": 52,
+      "submitted": 336
+    },
+    {
+      "year": 2023,
+      "accepted": 54,
+      "submitted": 339
+    },
+    {
+      "year": 2022,
+      "accepted": 59,
+      "submitted": 303
+    },
+    {
+      "year": 2021,
+      "accepted": 38,
+      "submitted": 315
+    },
+    {
+      "year": 2020,
+      "accepted": 55,
+      "submitted": 280
+    },
+    {
+      "year": 2019,
+      "accepted": 50,
+      "submitted": 317
+    },
+    {
+      "year": 2018,
+      "accepted": 54,
+      "submitted": 270
+    },
+    {
+      "year": 2017,
+      "accepted": 26,
+      "submitted": 203
+    },
+    {
+      "year": 2016,
+      "accepted": 28,
+      "submitted": 208
+    },
+    {
+      "year": 2015,
+      "accepted": 32,
+      "submitted": 239
+    },
+    {
+      "year": 2014,
+      "accepted": 40,
+      "submitted": 237
+    },
+    {
+      "year": 2013,
+      "accepted": 26,
+      "submitted": 196
+    }
+  ],
+  "second_track": "Extended Abstract (Poster)",
+  "second_track_yearly_data": [
+    {
+      "year": 2017,
+      "accepted": 18,
+      "submitted": 203
+    },
+    {
+      "year": 2016,
+      "accepted": 24,
+      "submitted": 208
+    },
+    {
+      "year": 2015,
+      "accepted": 24,
+      "submitted": 239
+    },
+    {
+      "year": 2014,
+      "accepted": 30,
+      "submitted": 239
+    },
+    {
+      "year": 2013,
+      "accepted": 28,
+      "submitted": 196
+    }
+  ]
+}

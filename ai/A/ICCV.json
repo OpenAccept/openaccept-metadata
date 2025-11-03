@@ -1,0 +1,44 @@
+{
+  "name": "ICCV",
+  "full_name": "International Conference on Computer Vision",
+  "website": "https://www.thecvf.com/",
+  "dblp": "https://dblp.org/db/conf/iccv/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 2698,
+      "submitted": 11239
+    },
+    {
+      "year": 2023,
+      "accepted": 2160,
+      "submitted": 8088
+    },
+    {
+      "year": 2021,
+      "accepted": 1617,
+      "submitted": 6236
+    },
+    {
+      "year": 2019,
+      "accepted": 1075,
+      "submitted": 4303
+    },
+    {
+      "year": 2017,
+      "accepted": 621,
+      "submitted": 2143
+    },
+    {
+      "year": 2015,
+      "accepted": 525,
+      "submitted": 1698
+    },
+    {
+      "year": 2013,
+      "accepted": 454,
+      "submitted": 1629
+    }
+  ],
+  "second_track": null
+}

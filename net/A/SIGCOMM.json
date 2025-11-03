@@ -1,0 +1,74 @@
+{
+  "name": "SIGCOMM",
+  "full_name": "Annual Conference of the ACM SIGCOMM on the Applications, Technologies, Architectures, and Protocols for Computer Communication",
+  "website": "https://dl.acm.org/sig/sigcomm",
+  "dblp": "https://dblp.org/db/conf/sigcomm/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 75,
+      "submitted": 463
+    },
+    {
+      "year": 2024,
+      "accepted": 62,
+      "submitted": 366
+    },
+    {
+      "year": 2023,
+      "accepted": 71,
+      "submitted": 323
+    },
+    {
+      "year": 2022,
+      "accepted": 55,
+      "submitted": 280
+    },
+    {
+      "year": 2021,
+      "accepted": 55,
+      "submitted": 246
+    },
+    {
+      "year": 2020,
+      "accepted": 53,
+      "submitted": 250
+    },
+    {
+      "year": 2019,
+      "accepted": 32,
+      "submitted": 223
+    },
+    {
+      "year": 2018,
+      "accepted": 40,
+      "submitted": 220
+    },
+    {
+      "year": 2017,
+      "accepted": 36,
+      "submitted": 250
+    },
+    {
+      "year": 2016,
+      "accepted": 39,
+      "submitted": 231
+    },
+    {
+      "year": 2015,
+      "accepted": 40,
+      "submitted": 242
+    },
+    {
+      "year": 2014,
+      "accepted": 45,
+      "submitted": 242
+    },
+    {
+      "year": 2013,
+      "accepted": 38,
+      "submitted": 246
+    }
+  ],
+  "second_track": null
+}

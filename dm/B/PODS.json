@@ -1,0 +1,69 @@
+{
+  "name": "PODS",
+  "full_name": "Symposium on Principles of Database Systems",
+  "website": "https://sigmod.org/pods-home/",
+  "dblp": "https://dblp.org/db/conf/pods/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 39,
+      "submitted": 110
+    },
+    {
+      "year": 2023,
+      "accepted": 29,
+      "submitted": 85
+    },
+    {
+      "year": 2022,
+      "accepted": 33,
+      "submitted": 95
+    },
+    {
+      "year": 2021,
+      "accepted": 26,
+      "submitted": 79
+    },
+    {
+      "year": 2020,
+      "accepted": 26,
+      "submitted": 70
+    },
+    {
+      "year": 2019,
+      "accepted": 29,
+      "submitted": 87
+    },
+    {
+      "year": 2018,
+      "accepted": 29,
+      "submitted": 83
+    },
+    {
+      "year": 2017,
+      "accepted": 29,
+      "submitted": 101
+    },
+    {
+      "year": 2016,
+      "accepted": 31,
+      "submitted": 94
+    },
+    {
+      "year": 2015,
+      "accepted": 25,
+      "submitted": 80
+    },
+    {
+      "year": 2014,
+      "accepted": 22,
+      "submitted": 67
+    },
+    {
+      "year": 2013,
+      "accepted": 24,
+      "submitted": 97
+    }
+  ],
+  "second_track": null
+}

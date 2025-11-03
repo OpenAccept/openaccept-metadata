@@ -1,0 +1,69 @@
+{
+  "name": "ASPLOS",
+  "full_name": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
+  "website": "https://www.asplos-conference.org/",
+  "dblp": "https://dblp.org/db/conf/asplos/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 193,
+      "submitted": 922
+    },
+    {
+      "year": 2023,
+      "accepted": 128,
+      "submitted": 600
+    },
+    {
+      "year": 2022,
+      "accepted": 80,
+      "submitted": 397
+    },
+    {
+      "year": 2021,
+      "accepted": 75,
+      "submitted": 398
+    },
+    {
+      "year": 2020,
+      "accepted": 86,
+      "submitted": 486
+    },
+    {
+      "year": 2019,
+      "accepted": 74,
+      "submitted": 351
+    },
+    {
+      "year": 2018,
+      "accepted": 56,
+      "submitted": 319
+    },
+    {
+      "year": 2017,
+      "accepted": 53,
+      "submitted": 320
+    },
+    {
+      "year": 2016,
+      "accepted": 53,
+      "submitted": 232
+    },
+    {
+      "year": 2015,
+      "accepted": 48,
+      "submitted": 287
+    },
+    {
+      "year": 2014,
+      "accepted": 49,
+      "submitted": 217
+    },
+    {
+      "year": 2013,
+      "accepted": 44,
+      "submitted": 193
+    }
+  ],
+  "second_track": null
+}

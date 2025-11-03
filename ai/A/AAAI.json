@@ -1,0 +1,72 @@
+{
+  "name": "AAAI",
+  "full_name": "AAAI Conference on Artificial Intelligence",
+  "website": "https://aaai.org/conference/aaai/",
+  "dblp": "https://dblp.org/db/conf/aaai/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "submitted": 12957,
+      "accepted": 3032
+    },
+    {
+      "year": 2024,
+      "submitted": 9862,
+      "accepted": 2342
+    },
+    {
+      "year": 2023,
+      "submitted": 8777,
+      "accepted": 1721
+    },
+    {
+      "year": 2022,
+      "submitted": 9020,
+      "accepted": 1349
+    },
+    {
+      "year": 2021,
+      "submitted": 7911,
+      "accepted": 1692
+    },
+    {
+      "year": 2020,
+      "submitted": 7737,
+      "accepted": 1591
+    },
+    {
+      "year": 2019,
+      "submitted": 7095,
+      "accepted": 1150
+    },
+    {
+      "year": 2018,
+      "submitted": 3800,
+      "accepted": 933
+    },
+    {
+      "year": 2017,
+      "submitted": 2590,
+      "accepted": 638
+    },
+    {
+      "year": 2016,
+      "submitted": 2132,
+      "accepted": 549
+    },
+    {
+      "year": 2015,
+      "submitted": 1991,
+      "accepted": 531
+    },
+    {
+      "year": 2014,
+      "submitted": 1406,
+      "accepted": 398
+    }
+  ],
+  "sources": [
+    "https://github.com/lixin4ever/Conference-Acceptance-Rate?tab=readme-ov-file#artificial-intelligence",
+    "https://syncedreview.com/2019/11/13/aaai-2020-reports-record-high-paper-submissions/"
+  ]
+}

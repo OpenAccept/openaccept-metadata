@@ -1,0 +1,44 @@
+{
+  "name": "SOSP",
+  "full_name": "Symposium on Operating Systems Principles",
+  "website": "https://www.sosp.org/",
+  "dblp": "https://dblp.org/db/conf/sosp/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 43,
+      "submitted": 245
+    },
+    {
+      "year": 2023,
+      "accepted": 43,
+      "submitted": 232
+    },
+    {
+      "year": 2021,
+      "accepted": 54,
+      "submitted": 348
+    },
+    {
+      "year": 2019,
+      "accepted": 38,
+      "submitted": 276
+    },
+    {
+      "year": 2017,
+      "accepted": 39,
+      "submitted": 232
+    },
+    {
+      "year": 2015,
+      "accepted": 30,
+      "submitted": 181
+    },
+    {
+      "year": 2013,
+      "accepted": 30,
+      "submitted": 157
+    }
+  ],
+  "second_track": null
+}

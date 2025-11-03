@@ -1,0 +1,141 @@
+{
+  "name": "KDD",
+  "full_name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "website": "https://www.kdd.org",
+  "dblp": "https://dblp.org/db/conf/kdd/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 552,
+      "submitted": 2955
+    },
+    {
+      "year": 2024,
+      "accepted": 411,
+      "submitted": 2046
+    },
+    {
+      "year": 2023,
+      "accepted": 313,
+      "submitted": 1416
+    },
+    {
+      "year": 2022,
+      "accepted": 254,
+      "submitted": 1659
+    },
+    {
+      "year": 2021,
+      "accepted": 239,
+      "submitted": 1541
+    },
+    {
+      "year": 2020,
+      "accepted": 217,
+      "submitted": 1279
+    },
+    {
+      "year": 2019,
+      "accepted": 174,
+      "submitted": 1179
+    },
+    {
+      "year": 2018,
+      "accepted": 181,
+      "submitted": 983
+    },
+    {
+      "year": 2017,
+      "accepted": 130,
+      "submitted": 748
+    },
+    {
+      "year": 2016,
+      "accepted": 142,
+      "submitted": 784
+    },
+    {
+      "year": 2015,
+      "accepted": 160,
+      "submitted": 819
+    },
+    {
+      "year": 2014,
+      "accepted": 151,
+      "submitted": 1036
+    },
+    {
+      "year": 2013,
+      "accepted": 125,
+      "submitted": 726
+    }
+  ],
+  "second_track": "Applied Data Science",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 155,
+      "submitted": 816
+    },
+    {
+      "year": 2024,
+      "accepted": 151,
+      "submitted": 738
+    },
+    {
+      "year": 2023,
+      "accepted": 184,
+      "submitted": 725
+    },
+    {
+      "year": 2022,
+      "accepted": 196,
+      "submitted": 753
+    },
+    {
+      "year": 2021,
+      "accepted": 155,
+      "submitted": 705
+    },
+    {
+      "year": 2020,
+      "accepted": 121,
+      "submitted": 756
+    },
+    {
+      "year": 2019,
+      "accepted": 147,
+      "submitted": 629
+    },
+    {
+      "year": 2018,
+      "accepted": 112,
+      "submitted": 497
+    },
+    {
+      "year": 2017,
+      "accepted": 86,
+      "submitted": 390
+    },
+    {
+      "year": 2016,
+      "accepted": 66,
+      "submitted": 331
+    },
+    {
+      "year": 2015,
+      "accepted": 68,
+      "submitted": 189
+    },
+    {
+      "year": 2014,
+      "accepted": 44,
+      "submitted": 197
+    },
+    {
+      "year": 2013,
+      "accepted": 34,
+      "submitted": 136
+    }
+  ]
+}

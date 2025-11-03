@@ -1,0 +1,59 @@
+{
+  "name": "ECOOP",
+  "full_name": "European Conference on Object-Oriented Programming",
+  "website": "https://sites.google.com/aito.org/home/ecoop",
+  "dblp": "https://dblp.org/db/conf/ecoop/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 47,
+      "submitted": 112
+    },
+    {
+      "year": 2021,
+      "accepted": 22,
+      "submitted": 57
+    },
+    {
+      "year": 2020,
+      "accepted": 30,
+      "submitted": 71
+    },
+    {
+      "year": 2019,
+      "accepted": 28,
+      "submitted": 82
+    },
+    {
+      "year": 2018,
+      "accepted": 26,
+      "submitted": 66
+    },
+    {
+      "year": 2017,
+      "accepted": 27,
+      "submitted": 81
+    },
+    {
+      "year": 2016,
+      "accepted": 25,
+      "submitted": 79
+    },
+    {
+      "year": 2015,
+      "accepted": 31,
+      "submitted": 136
+    },
+    {
+      "year": 2014,
+      "accepted": 27,
+      "submitted": 101
+    },
+    {
+      "year": 2013,
+      "accepted": 29,
+      "submitted": 116
+    }
+  ],
+  "second_track": null
+}

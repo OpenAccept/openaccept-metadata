@@ -1,0 +1,69 @@
+{
+  "name": "IEEE S&P",
+  "full_name": "IEEE Symposium on Security and Privacy",
+  "website": "https://www.ieee-security.org/",
+  "dblp": "https://dblp.org/db/conf/ieee s&p/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 261,
+      "submitted": 1466
+    },
+    {
+      "year": 2023,
+      "accepted": 199,
+      "submitted": 1147
+    },
+    {
+      "year": 2022,
+      "accepted": 147,
+      "submitted": 1012
+    },
+    {
+      "year": 2021,
+      "accepted": 115,
+      "submitted": 952
+    },
+    {
+      "year": 2020,
+      "accepted": 104,
+      "submitted": 841
+    },
+    {
+      "year": 2019,
+      "accepted": 84,
+      "submitted": 651
+    },
+    {
+      "year": 2018,
+      "accepted": 63,
+      "submitted": 533
+    },
+    {
+      "year": 2017,
+      "accepted": 60,
+      "submitted": 419
+    },
+    {
+      "year": 2016,
+      "accepted": 55,
+      "submitted": 398
+    },
+    {
+      "year": 2015,
+      "accepted": 55,
+      "submitted": 407
+    },
+    {
+      "year": 2014,
+      "accepted": 44,
+      "submitted": 333
+    },
+    {
+      "year": 2013,
+      "accepted": 38,
+      "submitted": 315
+    }
+  ],
+  "second_track": null
+}

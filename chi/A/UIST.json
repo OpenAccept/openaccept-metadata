@@ -1,0 +1,76 @@
+{
+  "name": "UIST",
+  "full_name": "ACM Symposium on User Interface Software and Technology",
+  "website": "https://uist.acm.org",
+  "dblp": "https://dblp.org/db/conf/uist/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 210,
+      "submitted": 945,
+      "source": "https://uist.acm.org/2025/papers/"
+    },
+    {
+      "year": 2024,
+      "accepted": 146,
+      "submitted": 608,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3654777"
+    },
+    {
+      "year": 2023,
+      "accepted": 121,
+      "submitted": 483
+    },
+    {
+      "year": 2022,
+      "accepted": 98,
+      "submitted": 372
+    },
+    {
+      "year": 2021,
+      "accepted": 95,
+      "submitted": 367
+    },
+    {
+      "year": 2020,
+      "accepted": 97,
+      "submitted": 450
+    },
+    {
+      "year": 2019,
+      "accepted": 93,
+      "submitted": 382
+    },
+    {
+      "year": 2018,
+      "accepted": 80,
+      "submitted": 375
+    },
+    {
+      "year": 2017,
+      "accepted": 73,
+      "submitted": 324
+    },
+    {
+      "year": 2016,
+      "accepted": 79,
+      "submitted": 384
+    },
+    {
+      "year": 2015,
+      "accepted": 70,
+      "submitted": 297
+    },
+    {
+      "year": 2014,
+      "accepted": 74,
+      "submitted": 333
+    },
+    {
+      "year": 2013,
+      "accepted": 62,
+      "submitted": 317
+    }
+  ],
+  "second_track": null
+}

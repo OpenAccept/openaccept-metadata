@@ -1,0 +1,133 @@
+{
+  "name": "ICMR",
+  "full_name": "ACM International Conference on Multimedia Retrieval",
+  "website": "https://sites.google.com/view/www-acmicmr-org",
+  "dblp": "https://dblp.org/db/conf/icmr/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 211,
+      "submitted": 515,
+      "source": "https://dl.acm.org/doi/proceedings/10.1145/3731715"
+    },
+    {
+      "year": 2024,
+      "accepted": 117,
+      "submitted": 281
+    },
+    {
+      "year": 2023,
+      "accepted": 57,
+      "submitted": 175
+    },
+    {
+      "year": 2022,
+      "accepted": 54,
+      "submitted": 157
+    },
+    {
+      "year": 2021,
+      "accepted": 48,
+      "submitted": 134
+    },
+    {
+      "year": 2020,
+      "accepted": 33,
+      "submitted": 78
+    },
+    {
+      "year": 2019,
+      "accepted": 26,
+      "submitted": 83
+    },
+    {
+      "year": 2018,
+      "accepted": 44,
+      "submitted": 136
+    },
+    {
+      "year": 2017,
+      "accepted": 33,
+      "submitted": 95
+    },
+    {
+      "year": 2016,
+      "accepted": 20,
+      "submitted": 120
+    },
+    {
+      "year": 2015,
+      "accepted": 48,
+      "submitted": 127
+    },
+    {
+      "year": 2014,
+      "accepted": 42,
+      "submitted": 111
+    },
+    {
+      "year": 2013,
+      "accepted": 32,
+      "submitted": 96
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 35,
+      "submitted": 82,
+      "source": "https://dl.acm.org/doi/proceedings/10.1145/3731715"
+    },
+    {
+      "year": 2024,
+      "accepted": 22,
+      "submitted": 42
+    },
+    {
+      "year": 2023,
+      "accepted": 20,
+      "submitted": 40
+    },
+    {
+      "year": 2022,
+      "accepted": 11,
+      "submitted": 32
+    },
+    {
+      "year": 2021,
+      "accepted": 15,
+      "submitted": 43
+    },
+    {
+      "year": 2020,
+      "accepted": 19,
+      "submitted": 27
+    },
+    {
+      "year": 2019,
+      "accepted": 23,
+      "submitted": 23
+    },
+    {
+      "year": 2017,
+      "accepted": 13,
+      "submitted": 35
+    },
+    {
+      "year": 2016,
+      "accepted": 36,
+      "submitted": 72
+    },
+    {
+      "year": 2015,
+      "accepted": 34,
+      "submitted": 84
+    },
+    {
+      "year": 2014,
+      "accepted": 27,
+      "submitted": 56
+    }
+  ]
+}

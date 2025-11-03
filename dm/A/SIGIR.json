@@ -1,0 +1,141 @@
+{
+  "name": "SIGIR",
+  "full_name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+  "website": "https://sigir.org/general-information/history/",
+  "dblp": "https://dblp.org/db/conf/sigir/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 239,
+      "submitted": 1071
+    },
+    {
+      "year": 2024,
+      "accepted": 160,
+      "submitted": 791
+    },
+    {
+      "year": 2023,
+      "accepted": 165,
+      "submitted": 822
+    },
+    {
+      "year": 2022,
+      "accepted": 161,
+      "submitted": 793
+    },
+    {
+      "year": 2021,
+      "accepted": 151,
+      "submitted": 720
+    },
+    {
+      "year": 2020,
+      "accepted": 147,
+      "submitted": 555
+    },
+    {
+      "year": 2019,
+      "accepted": 84,
+      "submitted": 426
+    },
+    {
+      "year": 2018,
+      "accepted": 86,
+      "submitted": 409
+    },
+    {
+      "year": 2017,
+      "accepted": 78,
+      "submitted": 372
+    },
+    {
+      "year": 2016,
+      "accepted": 62,
+      "submitted": 341
+    },
+    {
+      "year": 2015,
+      "accepted": 70,
+      "submitted": 351
+    },
+    {
+      "year": 2014,
+      "accepted": 82,
+      "submitted": 387
+    },
+    {
+      "year": 2013,
+      "accepted": 73,
+      "submitted": 366
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 107,
+      "submitted": 388
+    },
+    {
+      "year": 2024,
+      "accepted": 87,
+      "submitted": 362
+    },
+    {
+      "year": 2023,
+      "accepted": 154,
+      "submitted": 613
+    },
+    {
+      "year": 2022,
+      "accepted": 165,
+      "submitted": 667
+    },
+    {
+      "year": 2021,
+      "accepted": 145,
+      "submitted": 526
+    },
+    {
+      "year": 2020,
+      "accepted": 152,
+      "submitted": 507
+    },
+    {
+      "year": 2019,
+      "accepted": 108,
+      "submitted": 443
+    },
+    {
+      "year": 2018,
+      "accepted": 98,
+      "submitted": 327
+    },
+    {
+      "year": 2017,
+      "accepted": 121,
+      "submitted": 398
+    },
+    {
+      "year": 2016,
+      "accepted": 104,
+      "submitted": 339
+    },
+    {
+      "year": 2015,
+      "accepted": 79,
+      "submitted": 252
+    },
+    {
+      "year": 2014,
+      "accepted": 104,
+      "submitted": 263
+    },
+    {
+      "year": 2013,
+      "accepted": 85,
+      "submitted": 250
+    }
+  ]
+}

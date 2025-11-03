@@ -1,0 +1,74 @@
+{
+  "name": "UAI",
+  "full_name": "Conference on Uncertainty in Artificial Intelligence",
+  "website": "https://www.auai.org/",
+  "dblp": "https://dblp.org/db/conf/uai/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 150,
+      "submitted": 230
+    },
+    {
+      "year": 2024,
+      "accepted": 200,
+      "submitted": 715
+    },
+    {
+      "year": 2023,
+      "accepted": 243,
+      "submitted": 778
+    },
+    {
+      "year": 2022,
+      "accepted": 230,
+      "submitted": 712
+    },
+    {
+      "year": 2021,
+      "accepted": 205,
+      "submitted": 694
+    },
+    {
+      "year": 2020,
+      "accepted": 142,
+      "submitted": 515
+    },
+    {
+      "year": 2019,
+      "accepted": 118,
+      "submitted": 450
+    },
+    {
+      "year": 2018,
+      "accepted": 104,
+      "submitted": 337
+    },
+    {
+      "year": 2017,
+      "accepted": 87,
+      "submitted": 282
+    },
+    {
+      "year": 2016,
+      "accepted": 85,
+      "submitted": 275
+    },
+    {
+      "year": 2015,
+      "accepted": 99,
+      "submitted": 291
+    },
+    {
+      "year": 2014,
+      "accepted": 94,
+      "submitted": 292
+    },
+    {
+      "year": 2013,
+      "accepted": 73,
+      "submitted": 233
+    }
+  ],
+  "second_track": null
+}

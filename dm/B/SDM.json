@@ -1,0 +1,49 @@
+{
+  "name": "SDM",
+  "full_name": "SIAM International Conference on Data Mining",
+  "website": "https://www.siam.org",
+  "dblp": "https://dblp.org/db/conf/sdm/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 98,
+      "submitted": 335
+    },
+    {
+      "year": 2023,
+      "accepted": 105,
+      "submitted": 420
+    },
+    {
+      "year": 2022,
+      "accepted": 83,
+      "submitted": 298
+    },
+    {
+      "year": 2021,
+      "accepted": 85,
+      "submitted": 400
+    },
+    {
+      "year": 2018,
+      "accepted": 86,
+      "submitted": 374
+    },
+    {
+      "year": 2017,
+      "accepted": 93,
+      "submitted": 358
+    },
+    {
+      "year": 2016,
+      "accepted": 96,
+      "submitted": 380
+    },
+    {
+      "year": 2015,
+      "accepted": 108,
+      "submitted": 491
+    }
+  ],
+  "second_track": null
+}

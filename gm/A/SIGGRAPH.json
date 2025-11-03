@@ -1,0 +1,100 @@
+{
+  "name": "SIGGRAPH",
+  "full_name": "ACM SIGGRAPH Conference (International Conference on Computer Graphics and Interactive Techniques)",
+  "website": "https://www.siggraph.org/siggraph-events/conferences/",
+  "dblp": "https://dblp.org/db/conf/siggraph/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 174,
+      "submitted": 771
+    },
+    {
+      "year": 2024,
+      "accepted": 134,
+      "submitted": 654
+    },
+    {
+      "year": 2023,
+      "accepted": 86,
+      "submitted": 371
+    },
+    {
+      "year": 2022,
+      "accepted": 61,
+      "submitted": 353
+    },
+    {
+      "year": 2021,
+      "accepted": 149,
+      "submitted": 449
+    },
+    {
+      "year": 2020,
+      "accepted": 124,
+      "submitted": 443
+    },
+    {
+      "year": 2019,
+      "accepted": 111,
+      "submitted": 385
+    },
+    {
+      "year": 2018,
+      "accepted": 128,
+      "submitted": 464
+    },
+    {
+      "year": 2017,
+      "accepted": 126,
+      "submitted": 439
+    },
+    {
+      "year": 2016,
+      "accepted": 119,
+      "submitted": 467
+    },
+    {
+      "year": 2015,
+      "accepted": 118,
+      "submitted": 462
+    },
+    {
+      "year": 2014,
+      "accepted": 127,
+      "submitted": 505
+    },
+    {
+      "year": 2013,
+      "accepted": 115,
+      "submitted": 480
+    }
+  ],
+  "second_track": "Journal Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 132,
+      "submitted": 972
+    },
+    {
+      "year": 2024,
+      "accepted": 118,
+      "submitted": 846
+    },
+    {
+      "year": 2023,
+      "accepted": 126,
+      "submitted": 611
+    },
+    {
+      "year": 2022,
+      "accepted": 133,
+      "submitted": 610
+    }
+  ],
+  "remarks": "From 2022 onwards, SIGGRAPH adopts a two-track model: papers submitted to the journal-only track will only be considered for publication in the journal, while those submitted to the dual-track will also be considered for publication in the conference proceedings. On this page, '# submitted' in the [Main Research Track] represents # of papers submitted to the dual-track. '# submitted' in the [Journal Track] represents two-track total submissions.",
+  "sources": [
+    "https://www.kesen.realtimerendering.com/"
+  ]
+}

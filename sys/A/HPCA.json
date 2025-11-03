@@ -1,0 +1,69 @@
+{
+  "name": "HPCA",
+  "full_name": "IEEE International Symposium on High-Performance Computer Architecture",
+  "website": "https://www.hpca-conf.org/",
+  "dblp": "https://dblp.org/db/conf/hpca/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 75,
+      "submitted": 410
+    },
+    {
+      "year": 2023,
+      "accepted": 91,
+      "submitted": 364
+    },
+    {
+      "year": 2022,
+      "accepted": 80,
+      "submitted": 273
+    },
+    {
+      "year": 2021,
+      "accepted": 61,
+      "submitted": 260
+    },
+    {
+      "year": 2020,
+      "accepted": 48,
+      "submitted": 248
+    },
+    {
+      "year": 2019,
+      "accepted": 46,
+      "submitted": 233
+    },
+    {
+      "year": 2018,
+      "accepted": 54,
+      "submitted": 260
+    },
+    {
+      "year": 2017,
+      "accepted": 50,
+      "submitted": 224
+    },
+    {
+      "year": 2016,
+      "accepted": 53,
+      "submitted": 240
+    },
+    {
+      "year": 2015,
+      "accepted": 51,
+      "submitted": 228
+    },
+    {
+      "year": 2014,
+      "accepted": 55,
+      "submitted": 215
+    },
+    {
+      "year": 2013,
+      "accepted": 51,
+      "submitted": 249
+    }
+  ],
+  "second_track": null
+}

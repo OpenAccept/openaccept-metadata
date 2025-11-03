@@ -1,0 +1,59 @@
+{
+  "name": "AISTATS",
+  "full_name": "International Conference on Artificial Intelligence and Statistics",
+  "website": "https://aistats.org",
+  "dblp": "https://dblp.org/db/conf/aistats/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 583,
+      "submitted": 1861
+    },
+    {
+      "year": 2024,
+      "accepted": 546,
+      "submitted": 1980
+    },
+    {
+      "year": 2022,
+      "accepted": 493,
+      "submitted": 1685
+    },
+    {
+      "year": 2021,
+      "accepted": 455,
+      "submitted": 1527
+    },
+    {
+      "year": 2019,
+      "accepted": 360,
+      "submitted": 1111
+    },
+    {
+      "year": 2018,
+      "accepted": 214,
+      "submitted": 645
+    },
+    {
+      "year": 2017,
+      "accepted": 168,
+      "submitted": 530
+    },
+    {
+      "year": 2016,
+      "accepted": 165,
+      "submitted": 537
+    },
+    {
+      "year": 2015,
+      "accepted": 127,
+      "submitted": 442
+    },
+    {
+      "year": 2014,
+      "accepted": 120,
+      "submitted": 335
+    }
+  ],
+  "second_track": null
+}

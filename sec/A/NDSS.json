@@ -1,0 +1,69 @@
+{
+  "name": "NDSS",
+  "full_name": "Network and Distributed System Security Symposium",
+  "website": "https://www.ndss-symposium.org/",
+  "dblp": "https://dblp.org/db/conf/ndss/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 140,
+      "submitted": 682
+    },
+    {
+      "year": 2023,
+      "accepted": 94,
+      "submitted": 574
+    },
+    {
+      "year": 2022,
+      "accepted": 83,
+      "submitted": 513
+    },
+    {
+      "year": 2021,
+      "accepted": 87,
+      "submitted": 573
+    },
+    {
+      "year": 2020,
+      "accepted": 88,
+      "submitted": 506
+    },
+    {
+      "year": 2019,
+      "accepted": 89,
+      "submitted": 521
+    },
+    {
+      "year": 2018,
+      "accepted": 71,
+      "submitted": 331
+    },
+    {
+      "year": 2017,
+      "accepted": 68,
+      "submitted": 423
+    },
+    {
+      "year": 2016,
+      "accepted": 60,
+      "submitted": 389
+    },
+    {
+      "year": 2015,
+      "accepted": 51,
+      "submitted": 302
+    },
+    {
+      "year": 2014,
+      "accepted": 55,
+      "submitted": 295
+    },
+    {
+      "year": 2013,
+      "accepted": 47,
+      "submitted": 250
+    }
+  ],
+  "second_track": null
+}

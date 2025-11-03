@@ -1,0 +1,62 @@
+{
+  "name": "COLING",
+  "full_name": "IEEE International Conference on Multimedia and Expo",
+  "website": "",
+  "dblp": "https://dblp.org/db/conf/coling/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 663,
+      "submitted": 2089
+    },
+    {
+      "year": 2024,
+      "accepted": 1556,
+      "submitted": 3471
+    },
+    {
+      "year": 2022,
+      "accepted": 522,
+      "submitted": 1563
+    },
+    {
+      "year": 2020,
+      "accepted": 622,
+      "submitted": 1862
+    },
+    {
+      "year": 2018,
+      "accepted": 332,
+      "submitted": 888
+    },
+    {
+      "year": 2016,
+      "accepted": 337,
+      "submitted": 1039
+    },
+    {
+      "year": 2014,
+      "accepted": 217,
+      "submitted": 705
+    },
+    {
+      "year": 2012,
+      "accepted": 311,
+      "submitted": 1152
+    }
+  ],
+  "second_track": "Short Papers",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 97,
+      "submitted": 439
+    },
+    {
+        "year": 2022,
+        "accepted": 112,
+        "submitted": 463
+    }
+  ],
+  "remarks": "COLING is held every two years. From 2025 on, it will be held in odd years. LREC-COLING 2024 received 3,471 submissions, of which 2,959 were reviewed. Among 1556 accpted works, 333 were accepted as short papers."
+}

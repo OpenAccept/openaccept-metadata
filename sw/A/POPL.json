@@ -1,0 +1,74 @@
+{
+  "name": "POPL",
+  "full_name": "ACM SIGPLAN Symposium on Principles of Programming Languages",
+  "website": "https://www.sigplan.org/Conferences/POPL/",
+  "dblp": "https://dblp.org/db/conf/popl/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 79,
+      "submitted": 298
+    },
+    {
+      "year": 2024,
+      "accepted": 93,
+      "submitted": 314
+    },
+    {
+      "year": 2023,
+      "accepted": 74,
+      "submitted": 275
+    },
+    {
+      "year": 2022,
+      "accepted": 65,
+      "submitted": 286
+    },
+    {
+      "year": 2021,
+      "accepted": 61,
+      "submitted": 258
+    },
+    {
+      "year": 2020,
+      "accepted": 68,
+      "submitted": 247
+    },
+    {
+      "year": 2019,
+      "accepted": 77,
+      "submitted": 267
+    },
+    {
+      "year": 2018,
+      "accepted": 66,
+      "submitted": 271
+    },
+    {
+      "year": 2017,
+      "accepted": 64,
+      "submitted": 282
+    },
+    {
+      "year": 2016,
+      "accepted": 59,
+      "submitted": 252
+    },
+    {
+      "year": 2015,
+      "accepted": 52,
+      "submitted": 227
+    },
+    {
+      "year": 2014,
+      "accepted": 51,
+      "submitted": 220
+    },
+    {
+      "year": 2013,
+      "accepted": 43,
+      "submitted": 238
+    }
+  ],
+  "second_track": null
+}

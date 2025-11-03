@@ -1,0 +1,64 @@
+{
+  "name": "ICME",
+  "full_name": "IEEE International Conference on Multimedia and Expo",
+  "website": "",
+  "dblp": "https://dblp.org/db/conf/icme/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1022,
+      "submitted": 3737
+    },
+    {
+      "year": 2024,
+      "accepted": 666,
+      "submitted": 2049
+    },
+    {
+      "year": 2023,
+      "accepted": 488,
+      "submitted": 1274
+    },
+    {
+      "year": 2022,
+      "accepted": 381,
+      "submitted": 1285
+    },
+    {
+      "year": 2021,
+      "accepted": 397,
+      "submitted": 1300
+    },
+    {
+      "year": 2020,
+      "accepted": 241,
+      "submitted": 834
+    },
+    {
+      "year": 2019,
+      "accepted": 313,
+      "submitted": 1002
+    },
+    {
+      "year": 2018,
+      "accepted": 173,
+      "submitted": 582
+    },
+    {
+      "year": 2017,
+      "accepted": 313,
+      "submitted": 1002
+    },
+    {
+      "year": 2014,
+      "accepted": 212,
+      "submitted": 716
+    },
+    {
+      "year": 2013,
+      "accepted": 186,
+      "submitted": 622
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,74 @@
+{
+  "name": "NAACL",
+  "full_name": "Annual Conference of the North American Chapter of the Association for Computational Linguistics.",
+  "website": "https://naacl.org/conferences/index.html",
+  "dblp": "https://dblp.org/db/conf/naacl/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 719,
+      "submitted": 3185,
+      "source": "https://aclanthology.org/2025.naacl-long.0.pdf"
+    },
+    {
+      "year": 2024,
+      "accepted": 565,
+      "submitted": 2434
+    },
+    {
+      "year": 2022,
+      "accepted": 442,
+      "submitted": 2103
+    },
+    {
+      "year": 2021,
+      "accepted": 477,
+      "submitted": 1797
+    },
+    {
+      "year": 2019,
+      "accepted": 423,
+      "submitted": 1733
+    },
+    {
+      "year": 2018,
+      "accepted": 331,
+      "submitted": 1089
+    },
+    {
+      "year": 2016,
+      "accepted": 182,
+      "submitted": 680
+    },
+    {
+      "year": 2015,
+      "accepted": 186,
+      "submitted": 714
+    },
+    {
+      "year": 2013,
+      "accepted": 146,
+      "submitted": 460
+    }
+  ],
+  "second_track": "Findings",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 477,
+      "submitted": 3185,
+      "source": "https://aclanthology.org/2025.naacl-long.0.pdf"
+    },
+    {
+      "year": 2024,
+      "accepted": 304,
+      "submitted": 2434
+    },
+    {
+      "year": 2022,
+      "accepted": 209,
+      "submitted": 2103
+    }
+  ],
+  "remarks": "NAACL is only held in Northern America. NAACL will be skipped when ACL is held in Northern America. In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue."
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ICASSP",
+    "full_name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "website": "https://ieeeicassp.org/",
+    "dblp": "https://dblp.org/db/conf/icassp/index.html",
+    "yearly_data": [
+        {
+            "year": 2025,
+            "accepted": 3145,
+            "submitted": 6947
+        },
+        {
+            "year": 2024,
+            "accepted": 2812,
+            "submitted": 5796
+        },
+        {
+            "year": 2023,
+            "accepted": 2765,
+            "submitted": 6127
+        },
+        {
+            "year": 2022,
+            "accepted": 1785,
+            "submitted": 3967
+        },
+        {
+            "year": 2021,
+            "accepted": 1734,
+            "submitted": 3610
+        },
+        {
+            "year": 2019,
+            "accepted": 1774,
+            "submitted": 3815
+        },
+        {
+            "year": 2018,
+            "accepted": 1406,
+            "submitted": 2829
+        },
+        {
+            "year": 2017,
+            "accepted": 1220,
+            "submitted": 2518
+        },
+        {
+            "year": 2016,
+            "accepted": 1265,
+            "submitted": 2682
+        },
+        {
+            "year": 2015,
+            "accepted": 1207,
+            "submitted": 2322
+        },
+        {
+            "year": 2014,
+            "accepted": 1709,
+            "submitted": 3500
+        }
+    ],
+    "second_track": null
+}

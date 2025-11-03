@@ -1,0 +1,74 @@
+{
+  "name": "NSDI",
+  "full_name": "USENIX Symposium on Networked Systems Design and Implementation",
+  "website": "https://www.usenix.org/conferences/byname/178",
+  "dblp": "https://dblp.org/db/conf/nsdi/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 83,
+      "submitted": 565
+    },
+    {
+      "year": 2024,
+      "accepted": 112,
+      "submitted": 601
+    },
+    {
+      "year": 2023,
+      "accepted": 96,
+      "submitted": 560
+    },
+    {
+      "year": 2022,
+      "accepted": 78,
+      "submitted": 396
+    },
+    {
+      "year": 2021,
+      "accepted": 59,
+      "submitted": 369
+    },
+    {
+      "year": 2020,
+      "accepted": 65,
+      "submitted": 354
+    },
+    {
+      "year": 2019,
+      "accepted": 49,
+      "submitted": 332
+    },
+    {
+      "year": 2018,
+      "accepted": 40,
+      "submitted": 255
+    },
+    {
+      "year": 2017,
+      "accepted": 46,
+      "submitted": 254
+    },
+    {
+      "year": 2016,
+      "accepted": 45,
+      "submitted": 225
+    },
+    {
+      "year": 2015,
+      "accepted": 42,
+      "submitted": 213
+    },
+    {
+      "year": 2014,
+      "accepted": 38,
+      "submitted": 223
+    },
+    {
+      "year": 2013,
+      "accepted": 38,
+      "submitted": 170
+    }
+  ],
+  "second_track": null
+}

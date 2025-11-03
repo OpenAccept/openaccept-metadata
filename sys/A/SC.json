@@ -1,0 +1,69 @@
+{
+  "name": "SC",
+  "full_name": "The International Conference for High Performance Computing, Networking, Storage and Analysis",
+  "website": "https://supercomputing.org",
+  "dblp": "https://dblp.org/db/conf/sc/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 99,
+      "submitted": 470
+    },
+    {
+      "year": 2023,
+      "accepted": 90,
+      "submitted": 376
+    },
+    {
+      "year": 2022,
+      "accepted": 81,
+      "submitted": 320
+    },
+    {
+      "year": 2021,
+      "accepted": 98,
+      "submitted": 379
+    },
+    {
+      "year": 2020,
+      "accepted": 95,
+      "submitted": 378
+    },
+    {
+      "year": 2019,
+      "accepted": 87,
+      "submitted": 339
+    },
+    {
+      "year": 2018,
+      "accepted": 68,
+      "submitted": 288
+    },
+    {
+      "year": 2017,
+      "accepted": 61,
+      "submitted": 327
+    },
+    {
+      "year": 2016,
+      "accepted": 81,
+      "submitted": 442
+    },
+    {
+      "year": 2015,
+      "accepted": 79,
+      "submitted": 358
+    },
+    {
+      "year": 2014,
+      "accepted": 81,
+      "submitted": 394
+    },
+    {
+      "year": 2013,
+      "accepted": 90,
+      "submitted": 456
+    }
+  ],
+  "second_track": null
+}

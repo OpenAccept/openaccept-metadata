@@ -1,0 +1,74 @@
+{
+  "name": "NeurIPS",
+  "full_name": "Conference on Neural Information Processing Systems",
+  "website": "https://neurips.cc",
+  "dblp": "https://dblp.org/db/conf/neurips/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 5290,
+      "submitted": 21575
+    },
+    {
+      "year": 2024,
+      "accepted": 4043,
+      "submitted": 15671
+    },
+    {
+      "year": 2023,
+      "accepted": 3218,
+      "submitted": 12343
+    },
+    {
+      "year": 2022,
+      "accepted": 2672,
+      "submitted": 10411
+    },
+    {
+      "year": 2021,
+      "accepted": 2334,
+      "submitted": 9122
+    },
+    {
+      "year": 2020,
+      "accepted": 1898,
+      "submitted": 9467
+    },
+    {
+      "year": 2019,
+      "accepted": 1428,
+      "submitted": 6743
+    },
+    {
+      "year": 2018,
+      "accepted": 1011,
+      "submitted": 4856
+    },
+    {
+      "year": 2017,
+      "accepted": 678,
+      "submitted": 3240
+    },
+    {
+      "year": 2016,
+      "accepted": 568,
+      "submitted": 2406
+    },
+    {
+      "year": 2015,
+      "accepted": 403,
+      "submitted": 1838
+    },
+    {
+      "year": 2014,
+      "accepted": 414,
+      "submitted": 1678
+    },
+    {
+      "year": 2013,
+      "accepted": 360,
+      "submitted": 1420
+    }
+  ],
+  "second_track": null
+}

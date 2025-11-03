@@ -1,0 +1,69 @@
+{
+  "name": "ISCA",
+  "full_name": "International Symposium on Computer Architecture",
+  "website": "https://www.iscaconf.org",
+  "dblp": "https://dblp.org/db/conf/isca/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 83,
+      "submitted": 423
+    },
+    {
+      "year": 2023,
+      "accepted": 79,
+      "submitted": 372
+    },
+    {
+      "year": 2022,
+      "accepted": 67,
+      "submitted": 400
+    },
+    {
+      "year": 2021,
+      "accepted": 76,
+      "submitted": 407
+    },
+    {
+      "year": 2020,
+      "accepted": 77,
+      "submitted": 428
+    },
+    {
+      "year": 2019,
+      "accepted": 62,
+      "submitted": 365
+    },
+    {
+      "year": 2018,
+      "accepted": 64,
+      "submitted": 367
+    },
+    {
+      "year": 2017,
+      "accepted": 54,
+      "submitted": 322
+    },
+    {
+      "year": 2016,
+      "accepted": 57,
+      "submitted": 291
+    },
+    {
+      "year": 2015,
+      "accepted": 58,
+      "submitted": 305
+    },
+    {
+      "year": 2014,
+      "accepted": 46,
+      "submitted": 258
+    },
+    {
+      "year": 2013,
+      "accepted": 56,
+      "submitted": 288
+    }
+  ],
+  "second_track": null
+}

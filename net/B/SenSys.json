@@ -1,0 +1,70 @@
+{
+  "name": "SenSys",
+  "full_name": "ACM Conference on Embedded Networked Sensor Systems",
+  "website": "https://www.sigmobile.org/grav/events/conferences/sensys",
+  "dblp": "https://dblp.org/db/conf/sensys/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 45,
+      "submitted": 235,
+      "source": "https://dl.acm.org/doi/proceedings/10.1145/3715014"
+    },
+    {
+      "year": 2023,
+      "accepted": 35,
+      "submitted": 179
+    },
+    {
+      "year": 2022,
+      "accepted": 52,
+      "submitted": 209
+    },
+    {
+      "year": 2021,
+      "accepted": 25,
+      "submitted": 139
+    },
+    {
+      "year": 2020,
+      "accepted": 43,
+      "submitted": 203
+    },
+    {
+      "year": 2019,
+      "accepted": 28,
+      "submitted": 144
+    },
+    {
+      "year": 2018,
+      "accepted": 23,
+      "submitted": 147
+    },
+    {
+      "year": 2017,
+      "accepted": 26,
+      "submitted": 152
+    },
+    {
+      "year": 2016,
+      "accepted": 21,
+      "submitted": 119
+    },
+    {
+      "year": 2015,
+      "accepted": 27,
+      "submitted": 132
+    },
+    {
+      "year": 2014,
+      "accepted": 21,
+      "submitted": 117
+    },
+    {
+      "year": 2013,
+      "accepted": 21,
+      "submitted": 123
+    }
+  ],
+  "second_track": null
+}

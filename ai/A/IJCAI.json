@@ -1,0 +1,71 @@
+{
+  "name": "IJCAI",
+  "full_name": "International Joint Conference on Artificial Intelligence",
+  "website": [
+    "https://www.ijcai.org/future_conferences"
+  ],
+  "dblp": "https://dblp.org/db/conf/ijcai/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1042,
+      "submitted": 5404
+    },
+    {
+      "year": 2024,
+      "accepted": 791,
+      "submitted": 5651
+    },
+    {
+      "year": 2023,
+      "accepted": 643,
+      "submitted": 4566
+    },
+    {
+      "year": 2022,
+      "accepted": 679,
+      "submitted": 4537
+    },
+    {
+      "year": 2021,
+      "accepted": 587,
+      "submitted": 4204
+    },
+    {
+      "year": 2020,
+      "accepted": 592,
+      "submitted": 4717
+    },
+    {
+      "year": 2019,
+      "accepted": 850,
+      "submitted": 4752
+    },
+    {
+      "year": 2018,
+      "accepted": 710,
+      "submitted": 3470
+    },
+    {
+      "year": 2017,
+      "accepted": 660,
+      "submitted": 2540
+    },
+    {
+      "year": 2016,
+      "accepted": 551,
+      "submitted": 2294
+    },
+    {
+      "year": 2015,
+      "accepted": 572,
+      "submitted": 1996
+    },
+    {
+      "year": 2013,
+      "accepted": 413,
+      "submitted": 1473
+    }
+  ],
+  "second_track": null
+}

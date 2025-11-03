@@ -1,0 +1,69 @@
+{
+  "name": "PPoPP",
+  "full_name": "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",
+  "website": "https://www.sigplan.org/Conferences/PPOPP/",
+  "dblp": "https://dblp.org/db/conf/ppopp/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 32,
+      "submitted": 151
+    },
+    {
+      "year": 2023,
+      "accepted": 31,
+      "submitted": 131
+    },
+    {
+      "year": 2022,
+      "accepted": 29,
+      "submitted": 118
+    },
+    {
+      "year": 2021,
+      "accepted": 31,
+      "submitted": 150
+    },
+    {
+      "year": 2020,
+      "accepted": 28,
+      "submitted": 121
+    },
+    {
+      "year": 2019,
+      "accepted": 29,
+      "submitted": 152
+    },
+    {
+      "year": 2018,
+      "accepted": 28,
+      "submitted": 139
+    },
+    {
+      "year": 2017,
+      "accepted": 29,
+      "submitted": 132
+    },
+    {
+      "year": 2016,
+      "accepted": 29,
+      "submitted": 146
+    },
+    {
+      "year": 2015,
+      "accepted": 23,
+      "submitted": 135
+    },
+    {
+      "year": 2014,
+      "accepted": 28,
+      "submitted": 184
+    },
+    {
+      "year": 2013,
+      "accepted": 26,
+      "submitted": 146
+    }
+  ],
+  "second_track": null
+}

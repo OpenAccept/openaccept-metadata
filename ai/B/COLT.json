@@ -1,0 +1,74 @@
+{
+  "name": "COLT",
+  "full_name": "Annual Conference on Computational Learning Theory",
+  "website": "https://www.learningtheory.org/",
+  "dblp": "https://dblp.org/db/conf/colt/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 177,
+      "submitted": 556
+    },
+    {
+      "year": 2024,
+      "accepted": 160,
+      "submitted": 448
+    },
+    {
+      "year": 2023,
+      "accepted": 164,
+      "submitted": 474
+    },
+    {
+      "year": 2022,
+      "accepted": 155,
+      "submitted": 470
+    },
+    {
+      "year": 2021,
+      "accepted": 136,
+      "submitted": 387
+    },
+    {
+      "year": 2020,
+      "accepted": 120,
+      "submitted": 388
+    },
+    {
+      "year": 2019,
+      "accepted": 118,
+      "submitted": 393
+    },
+    {
+      "year": 2018,
+      "accepted": 91,
+      "submitted": 335
+    },
+    {
+      "year": 2017,
+      "accepted": 73,
+      "submitted": 228
+    },
+    {
+      "year": 2016,
+      "accepted": 63,
+      "submitted": 199
+    },
+    {
+      "year": 2015,
+      "accepted": 70,
+      "submitted": 180
+    },
+    {
+      "year": 2014,
+      "accepted": 52,
+      "submitted": 140
+    },
+    {
+      "year": 2013,
+      "accepted": 47,
+      "submitted": 98
+    }
+  ],
+  "second_track": null
+}

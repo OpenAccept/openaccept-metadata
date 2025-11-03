@@ -1,0 +1,74 @@
+{
+  "name": "ICRA",
+  "full_name": "IEEE International Conference on Robotics and Automation",
+  "website": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+  "dblp": "https://dblp.org/db/conf/icra/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1606,
+      "submitted": 4153
+    },
+    {
+      "year": 2024,
+      "accepted": 1760,
+      "submitted": 3937
+    },
+    {
+      "year": 2023,
+      "accepted": 1345,
+      "submitted": 3125
+    },
+    {
+      "year": 2022,
+      "accepted": 1428,
+      "submitted": 3263
+    },
+    {
+      "year": 2021,
+      "accepted": 1690,
+      "submitted": 3877
+    },
+    {
+      "year": 2020,
+      "accepted": 1277,
+      "submitted": 2902
+    },
+    {
+      "year": 2019,
+      "accepted": 1317,
+      "submitted": 2916
+    },
+    {
+      "year": 2018,
+      "accepted": 1056,
+      "submitted": 2586
+    },
+    {
+      "year": 2017,
+      "accepted": 939,
+      "submitted": 2289
+    },
+    {
+      "year": 2016,
+      "accepted": 816,
+      "submitted": 2358
+    },
+    {
+      "year": 2015,
+      "accepted": 940,
+      "submitted": 2280
+    },
+    {
+      "year": 2014,
+      "accepted": 1015,
+      "submitted": 2090
+    },
+    {
+      "year": 2013,
+      "accepted": 870,
+      "submitted": 2270
+    }
+  ],
+  "second_track": null
+}

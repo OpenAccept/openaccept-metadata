@@ -1,0 +1,76 @@
+{
+  "name": "ICWSM",
+  "full_name": "ICWSM: International AAAI Conference on Web and Social Media",
+  "website": "https://www.icwsm.org",
+  "dblp": "https://dblp.org/db/conf/icwsm/index.html",
+  "yearly_data": [
+    {
+      "year": 2020,
+      "accepted": 72,
+      "submitted": 295
+    },
+    {
+      "year": 2019,
+      "accepted": 51,
+      "submitted": 238
+    },
+    {
+      "year": 2018,
+      "accepted": 78,
+      "submitted": 295
+    },
+    {
+      "year": 2017,
+      "accepted": 50,
+      "submitted": 372
+    },
+    {
+      "year": 2016,
+      "accepted": 52,
+      "submitted": 306
+    },
+    {
+      "year": 2015,
+      "accepted": 64,
+      "submitted": 343
+    },
+    {
+      "year": 2014,
+      "accepted": 64,
+      "submitted": 279
+    },
+    {
+      "year": 2013,
+      "accepted": 72,
+      "submitted": 349
+    }
+  ],
+  "second_track": "Research Poster Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2020,
+      "accepted": 12,
+      "submitted": 53
+    },
+    {
+      "year": 2019,
+      "accepted": 7,
+      "submitted": 33
+    },
+    {
+      "year": 2018,
+      "accepted": 18,
+      "submitted": 71
+    },
+    {
+      "year": 2015,
+      "accepted": 37,
+      "submitted": 57
+    },
+    {
+      "year": 2014,
+      "accepted": 18,
+      "submitted": 44
+    }
+  ]
+}

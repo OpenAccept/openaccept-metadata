@@ -1,0 +1,64 @@
+{
+  "name": "CCS",
+  "full_name": "ACM Conference on Computer and Communications Security",
+  "website": "https://www.sigsac.org/ccs/ccs-history.html",
+  "dblp": "https://dblp.org/db/conf/ccs/index.html",
+  "yearly_data": [
+    {
+      "year": 2023,
+      "accepted": 235,
+      "submitted": 1222
+    },
+    {
+      "year": 2022,
+      "accepted": 218,
+      "submitted": 971
+    },
+    {
+      "year": 2021,
+      "accepted": 196,
+      "submitted": 879
+    },
+    {
+      "year": 2020,
+      "accepted": 121,
+      "submitted": 715
+    },
+    {
+      "year": 2019,
+      "accepted": 149,
+      "submitted": 934
+    },
+    {
+      "year": 2018,
+      "accepted": 134,
+      "submitted": 809
+    },
+    {
+      "year": 2017,
+      "accepted": 151,
+      "submitted": 836
+    },
+    {
+      "year": 2016,
+      "accepted": 137,
+      "submitted": 831
+    },
+    {
+      "year": 2015,
+      "accepted": 128,
+      "submitted": 660
+    },
+    {
+      "year": 2014,
+      "accepted": 114,
+      "submitted": 585
+    },
+    {
+      "year": 2013,
+      "accepted": 105,
+      "submitted": 530
+    }
+  ],
+  "second_track": null
+}

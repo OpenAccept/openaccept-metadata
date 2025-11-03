@@ -1,0 +1,69 @@
+{
+  "name": "FSE-ESEC",
+  "full_name": "ACM International Conference on the Foundations of Software Engineering",
+  "website": "https://www.esec-fse.org/index",
+  "dblp": "https://dblp.org/db/conf/fse/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 121,
+      "submitted": 474
+    },
+    {
+      "year": 2023,
+      "accepted": 127,
+      "submitted": 465
+    },
+    {
+      "year": 2022,
+      "accepted": 99,
+      "submitted": 449
+    },
+    {
+      "year": 2021,
+      "accepted": 97,
+      "submitted": 396
+    },
+    {
+      "year": 2020,
+      "accepted": 101,
+      "submitted": 360
+    },
+    {
+      "year": 2019,
+      "accepted": 74,
+      "submitted": 303
+    },
+    {
+      "year": 2018,
+      "accepted": 61,
+      "submitted": 289
+    },
+    {
+      "year": 2017,
+      "accepted": 72,
+      "submitted": 295
+    },
+    {
+      "year": 2016,
+      "accepted": 74,
+      "submitted": 266
+    },
+    {
+      "year": 2015,
+      "accepted": 74,
+      "submitted": 291
+    },
+    {
+      "year": 2014,
+      "accepted": 61,
+      "submitted": 280
+    },
+    {
+      "year": 2013,
+      "accepted": 51,
+      "submitted": 251
+    }
+  ],
+  "second_track": null
+}

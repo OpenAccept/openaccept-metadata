@@ -1,0 +1,54 @@
+{
+  "name": "CODES-ISSS",
+  "full_name": "International Conference on Hardware/Software Codesign and System Synthesis",
+  "website": "https://esweek.org/codes-isss/",
+  "dblp": "https://dblp.org/db/conf/codes-isss/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 30,
+      "submitted": 102
+    },
+    {
+      "year": 2023,
+      "accepted": 17,
+      "submitted": 71
+    },
+    {
+      "year": 2022,
+      "accepted": 31,
+      "submitted": 127
+    },
+    {
+      "year": 2021,
+      "accepted": 18,
+      "submitted": 70
+    },
+    {
+      "year": 2018,
+      "accepted": 22,
+      "submitted": 86
+    },
+    {
+      "year": 2016,
+      "accepted": 21,
+      "submitted": 80
+    },
+    {
+      "year": 2015,
+      "accepted": 21,
+      "submitted": 79
+    },
+    {
+      "year": 2014,
+      "accepted": 30,
+      "submitted": 117
+    },
+    {
+      "year": 2013,
+      "accepted": 31,
+      "submitted": 111
+    }
+  ],
+  "second_track": null
+}

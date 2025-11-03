@@ -1,0 +1,69 @@
+{
+  "name": "ICCAD",
+  "full_name": "IEEE/ACM International Conference on Computer Aided Design",
+  "website": "https://www.iccad.com",
+  "dblp": "https://dblp.org/db/conf/iccad/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 195,
+      "submitted": 802
+    },
+    {
+      "year": 2023,
+      "accepted": 172,
+      "submitted": 750
+    },
+    {
+      "year": 2022,
+      "accepted": 132,
+      "submitted": 595
+    },
+    {
+      "year": 2021,
+      "accepted": 121,
+      "submitted": 514
+    },
+    {
+      "year": 2020,
+      "accepted": 127,
+      "submitted": 470
+    },
+    {
+      "year": 2019,
+      "accepted": 94,
+      "submitted": 394
+    },
+    {
+      "year": 2018,
+      "accepted": 98,
+      "submitted": 400
+    },
+    {
+      "year": 2017,
+      "accepted": 105,
+      "submitted": 399
+    },
+    {
+      "year": 2016,
+      "accepted": 97,
+      "submitted": 409
+    },
+    {
+      "year": 2015,
+      "accepted": 94,
+      "submitted": 382
+    },
+    {
+      "year": 2014,
+      "accepted": 77,
+      "submitted": 304
+    },
+    {
+      "year": 2013,
+      "accepted": 92,
+      "submitted": 354
+    }
+  ],
+  "second_track": null
+}

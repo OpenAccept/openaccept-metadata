@@ -1,0 +1,50 @@
+{
+  "name": "NLPCC",
+  "full_name": "CCF International Conference on Natural Language Processing and Chinese Computing",
+  "website": "http://tcci.ccf.org.cn/nlpcc.php",
+  "dblp": "https://dblp.org/db/conf/nlpcc/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 161,
+      "submitted": 451
+    },
+    {
+      "year": 2023,
+      "accepted": 143,
+      "submitted": 478
+    },
+    {
+      "year": 2022,
+      "accepted": 83,
+      "submitted": 327
+    },
+    {
+      "year": 2021,
+      "accepted": 104,
+      "submitted": 446
+    },
+    {
+      "year": 2020,
+      "accepted": 70,
+      "submitted": 320
+    },
+    {
+      "year": 2019,
+      "accepted": 85,
+      "submitted": 492
+    },
+    {
+      "year": 2018,
+      "accepted":  55,
+      "submitted": 308
+    },
+    {
+      "year": 2017,
+      "accepted":  47,
+      "submitted": 252
+    }
+  ],
+  "second_track": null,
+  "remarks": "NLPCC accepts submissions writen in English or Chinese. Statistics provided here do not distinguish papers writen in either languages."
+}

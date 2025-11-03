@@ -1,0 +1,39 @@
+{
+  "name": "CSCW",
+  "full_name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+  "website": "https://archive.sigchi.org/conferences/conference-history/CSCW/",
+  "dblp": "https://dblp.org/db/conf/cscw/index.html",
+  "yearly_data": [
+    {
+      "year": 2018,
+      "accepted": 289,
+      "submitted": 1107
+    },
+    {
+      "year": 2017,
+      "accepted": 183,
+      "submitted": 530
+    },
+    {
+      "year": 2016,
+      "accepted": 142,
+      "submitted": 571
+    },
+    {
+      "year": 2015,
+      "accepted": 165,
+      "submitted": 575
+    },
+    {
+      "year": 2014,
+      "accepted": 134,
+      "submitted": 497
+    },
+    {
+      "year": 2013,
+      "accepted": 139,
+      "submitted": 390
+    }
+  ],
+  "second_track": null
+}

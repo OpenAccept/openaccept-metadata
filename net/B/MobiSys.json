@@ -1,0 +1,75 @@
+{
+  "name": "MobiSys",
+  "full_name": "ACM International Conference on Mobile Systems, Applications, and Services",
+  "website": "https://www.sigmobile.org/grav/events/conferences/mobisys",
+  "dblp": "https://dblp.org/db/conf/mobisys/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 42,
+      "submitted": 233,
+      "source": "https://dl.acm.org/doi/proceedings/10.1145/3711875"
+    },
+    {
+      "year": 2024,
+      "accepted": 43,
+      "submitted": 263
+    },
+    {
+      "year": 2023,
+      "accepted": 41,
+      "submitted": 198
+    },
+    {
+      "year": 2022,
+      "accepted": 38,
+      "submitted": 176
+    },
+    {
+      "year": 2021,
+      "accepted": 36,
+      "submitted": 166
+    },
+    {
+      "year": 2020,
+      "accepted": 34,
+      "submitted": 175
+    },
+    {
+      "year": 2019,
+      "accepted": 39,
+      "submitted": 172
+    },
+    {
+      "year": 2018,
+      "accepted": 37,
+      "submitted": 138
+    },
+    {
+      "year": 2017,
+      "accepted": 34,
+      "submitted": 188
+    },
+    {
+      "year": 2016,
+      "accepted": 31,
+      "submitted": 197
+    },
+    {
+      "year": 2015,
+      "accepted": 29,
+      "submitted": 219
+    },
+    {
+      "year": 2014,
+      "accepted": 25,
+      "submitted": 185
+    },
+    {
+      "year": 2013,
+      "accepted": 33,
+      "submitted": 211
+    }
+  ],
+  "second_track": null
+}

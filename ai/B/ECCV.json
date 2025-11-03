@@ -1,0 +1,41 @@
+{
+  "name": "ECCV",
+  "full_name": "European Conference on Computer Vision",
+  "website": [
+    "https://www.ecva.net/index.php"
+  ],
+  "dblp": "https://dblp.org/db/conf/eccv/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 2387,
+      "submitted": 8585
+    },
+    {
+      "year": 2022,
+      "accepted": 1645,
+      "submitted": 5804
+    },
+    {
+      "year": 2020,
+      "accepted": 1360,
+      "submitted": 5150
+    },
+    {
+      "year": 2018,
+      "accepted": 776,
+      "submitted": 2439
+    },
+    {
+      "year": 2016,
+      "accepted": 415,
+      "submitted": 1561
+    },
+    {
+      "year": 2014,
+      "accepted": 363,
+      "submitted": 1444
+    }
+  ],
+  "second_track": null
+}

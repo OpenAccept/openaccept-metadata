@@ -1,0 +1,89 @@
+{
+  "name": "RecSys",
+  "full_name": "ACM Conference on Recommender Systems",
+  "website": "https://recsys.acm.org/",
+  "dblp": "https://dblp.org/db/conf/recsys/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 49,
+      "submitted": 260
+    },
+    {
+      "year": 2024,
+      "accepted": 58,
+      "submitted": 266
+    },
+    {
+      "year": 2023,
+      "accepted": 47,
+      "submitted": 269
+    },
+    {
+      "year": 2022,
+      "accepted": 39,
+      "submitted": 231
+    },
+    {
+      "year": 2021,
+      "accepted": 49,
+      "submitted": 267
+    },
+    {
+      "year": 2020,
+      "accepted": 39,
+      "submitted": 218
+    },
+    {
+      "year": 2019,
+      "accepted": 36,
+      "submitted": 189
+    },
+    {
+      "year": 2018,
+      "accepted": 32,
+      "submitted": 181
+    },
+    {
+      "year": 2017,
+      "accepted": 26,
+      "submitted": 125
+    },
+    {
+      "year": 2016,
+      "accepted": 29,
+      "submitted": 159
+    },
+    {
+      "year": 2015,
+      "accepted": 28,
+      "submitted": 131
+    },
+    {
+      "year": 2014,
+      "accepted": 35,
+      "submitted": 152
+    },
+    {
+      "year": 2013,
+      "accepted": 32,
+      "submitted": 136
+    }
+  ],
+  "second_track": "Short Paper",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 33,
+      "submitted": 161
+    },
+    {
+      "year": 2017,
+      "accepted": 20,
+      "submitted": 122
+    }
+  ],
+  "sources": [
+    "https://recsys.acm.org/statistics/"
+  ]
+}

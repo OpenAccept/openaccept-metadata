@@ -1,0 +1,72 @@
+{
+  "name": "SIGMOD",
+  "full_name": "ACM SIGMOD/PODS International Conference on Management of Data ",
+  "website": "https://sigmod.org",
+  "dblp": "https://dblp.org/db/conf/sigmod/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 213,
+      "submitted": 768
+    },
+    {
+      "year": 2023,
+      "accepted": 186,
+      "submitted": 660
+    },
+    {
+      "year": 2022,
+      "accepted": 151,
+      "submitted": 514
+    },
+    {
+      "year": 2021,
+      "accepted": 188,
+      "submitted": 450
+    },
+    {
+      "year": 2020,
+      "accepted": 123,
+      "submitted": 458
+    },
+    {
+      "year": 2019,
+      "accepted": 88,
+      "submitted": 418
+    },
+    {
+      "year": 2018,
+      "accepted": 90,
+      "submitted": 458
+    },
+    {
+      "year": 2017,
+      "accepted": 96,
+      "submitted": 489
+    },
+    {
+      "year": 2016,
+      "accepted": 116,
+      "submitted": 569
+    },
+    {
+      "year": 2015,
+      "accepted": 106,
+      "submitted": 413
+    },
+    {
+      "year": 2014,
+      "accepted": 107,
+      "submitted": 421
+    },
+    {
+      "year": 2013,
+      "accepted": 76,
+      "submitted": 372
+    }
+  ],
+  "second_track": null,
+  "sources": [
+    "https://blog.csdn.net/ConferenceEye/article/details/139664869"
+  ]
+}

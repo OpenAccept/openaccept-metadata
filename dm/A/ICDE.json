@@ -1,0 +1,77 @@
+{
+  "name": "ICDE",
+  "full_name": "IEEE International Conference on Data Engineering",
+  "website": "https://ieee-icde.org/",
+  "dblp": "https://dblp.org/db/conf/icde/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 300,
+      "submitted": 1518
+    },
+    {
+      "year": 2024,
+      "accepted": 376,
+      "submitted": 1481
+    },
+    {
+      "year": 2023,
+      "accepted": 229,
+      "submitted": 748
+    },
+    {
+      "year": 2022,
+      "accepted": 211,
+      "submitted": 780
+    },
+    {
+      "year": 2021,
+      "accepted": 151,
+      "submitted": 549
+    },
+    {
+      "year": 2020,
+      "accepted": 129,
+      "submitted": 568
+    },
+    {
+      "year": 2019,
+      "accepted": 129,
+      "submitted": 568
+    },
+    {
+      "year": 2018,
+      "accepted": 98,
+      "submitted": 424
+    },
+    {
+      "year": 2017,
+      "accepted": 63,
+      "submitted": 356
+    },
+    {
+      "year": 2016,
+      "accepted": 99,
+      "submitted": 395
+    },
+    {
+      "year": 2015,
+      "accepted": 103,
+      "submitted": 409
+    },
+    {
+      "year": 2014,
+      "accepted": 89,
+      "submitted": 446
+    },
+    {
+      "year": 2013,
+      "accepted": 95,
+      "submitted": 443
+    }
+  ],
+  "second_track": null,
+  "sources":[
+    "https://doi.ieeecomputersociety.org/10.1109/ICDE65448.2025.00005"
+  ]
+}

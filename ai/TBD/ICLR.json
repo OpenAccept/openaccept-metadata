@@ -1,0 +1,76 @@
+{
+  "name": "ICLR",
+  "full_name": "International Conference on Learning Representations",
+  "website": [
+    "https://iclr.cc/"
+  ],
+  "dblp": "https://dblp.org/db/conf/iclr/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 3710,
+      "submitted": 11565
+    },
+    {
+      "year": 2024,
+      "accepted": 2250,
+      "submitted": 7304
+    },
+    {
+      "year": 2023,
+      "accepted": 1574,
+      "submitted": 4938
+    },
+    {
+      "year": 2022,
+      "accepted": 1095,
+      "submitted": 3391
+    },
+    {
+      "year": 2021,
+      "accepted": 860,
+      "submitted": 2997
+    },
+    {
+      "year": 2020,
+      "accepted": 687,
+      "submitted": 2594
+    },
+    {
+      "year": 2019,
+      "accepted": 500,
+      "submitted": 1591
+    },
+    {
+      "year": 2018,
+      "accepted": 314,
+      "submitted": 981
+    },
+    {
+      "year": 2017,
+      "accepted": 198,
+      "submitted": 507
+    },
+    {
+      "year": 2016,
+      "accepted": 80,
+      "submitted": 265
+    },
+    {
+      "year": 2015,
+      "accepted": 31,
+      "submitted": 143
+    },
+    {
+      "year": 2014,
+      "accepted": 35,
+      "submitted": 87
+    },
+    {
+      "year": 2013,
+      "accepted": 23,
+      "submitted": 67
+    }
+  ],
+  "second_track": null
+}

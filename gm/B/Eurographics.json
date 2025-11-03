@@ -1,0 +1,44 @@
+{
+  "name": "Eurographics",
+  "full_name": "Annual Conference of the European Association for Computer Graphics",
+  "website": "https://www.eg.org/wp/",
+  "dblp": "https://dblp.org/db/conf/eurographics/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 75,
+      "submitted": 205
+    },
+    {
+      "year": 2024,
+      "accepted": 53,
+      "submitted": 161
+    },
+    {
+      "year": 2023,
+      "accepted": 34,
+      "submitted": 111
+    },
+    {
+      "year": 2022,
+      "accepted": 40,
+      "submitted": 119
+    },
+    {
+      "year": 2021,
+      "accepted": 47,
+      "submitted": 129
+    },
+    {
+      "year": 2016,
+      "accepted": 48,
+      "submitted": 161
+    },
+    {
+      "year": 2015,
+      "accepted": 55,
+      "submitted": 207
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,101 @@
+{
+  "name": "EuroSys",
+  "full_name": "European Conference on Computer Systems",
+  "website": "https://www.eurosys.org/home",
+  "dblp": "https://dblp.org/db/conf/eurosys/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 71,
+      "submitted": 484
+    },
+    {
+      "year": 2023,
+      "accepted": 54,
+      "submitted": 323
+    },
+    {
+      "year": 2022,
+      "accepted": 45,
+      "submitted": 161
+    },
+    {
+      "year": 2021,
+      "accepted": 38,
+      "submitted": 191
+    },
+    {
+      "year": 2020,
+      "accepted": 43,
+      "submitted": 234
+    },
+    {
+      "year": 2019,
+      "accepted": 45,
+      "submitted": 207
+    },
+    {
+      "year": 2018,
+      "accepted": 43,
+      "submitted": 262
+    },
+    {
+      "year": 2017,
+      "accepted": 41,
+      "submitted": 188
+    },
+    {
+      "year": 2016,
+      "accepted": 38,
+      "submitted": 180
+    },
+    {
+      "year": 2015,
+      "accepted": 32,
+      "submitted": 150
+    },
+    {
+      "year": 2014,
+      "accepted": 27,
+      "submitted": 147
+    },
+    {
+      "year": 2013,
+      "accepted": 28,
+      "submitted": 143
+    }
+  ],
+  "second_track": "Poster",
+  "second_track_yearly_data": [
+    {
+      "year": 2020,
+      "accepted": 17,
+      "submitted": 28
+    },
+    {
+      "year": 2019,
+      "accepted": 12,
+      "submitted": 25
+    },
+    {
+      "year": 2018,
+      "accepted": 8,
+      "submitted": 11
+    },
+    {
+      "year": 2017,
+      "accepted": 17,
+      "submitted": 28
+    },
+    {
+      "year": 2016,
+      "accepted": 16,
+      "submitted": 20
+    },
+    {
+      "year": 2015,
+      "accepted": 23,
+      "submitted": 32
+    }
+  ]
+}

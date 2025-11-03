@@ -1,0 +1,55 @@
+{
+  "name": "ECAI",
+  "full_name": "European Conference on Artificial Intelligence",
+  "website": "https://www.eurai.org/ecai",
+  "dblp": "https://dblp.uni-trier.de/db/conf/ecai/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 626,
+      "submitted": 2667
+    },
+    {
+      "year": 2024,
+      "accepted": 547,
+      "submitted": 2344
+    },
+    {
+      "year": 2023,
+      "accepted": 391,
+      "submitted": 1631
+    },
+    {
+      "year": 2022,
+      "accepted": 679,
+      "submitted": 4537
+    },
+    {
+      "year": 2020,
+      "accepted": 365,
+      "submitted": 1363
+    },
+    {
+      "year": 2018,
+      "accepted": 710,
+      "submitted": 3470
+    },
+    {
+      "year": 2016,
+      "accepted": 177,
+      "submitted": 656
+    },
+    {
+      "year": 2014,
+      "accepted": 158,
+      "submitted": 562
+    },
+    {
+      "year": 2012,
+      "accepted": 140,
+      "submitted": 492
+    }
+  ],
+  "second_track": null,
+  "remarks": "In 2018 and 2022, ECAI was jointly hosted with IJCAI. From 2022 onwards, ECAI is hosted annually."
+}

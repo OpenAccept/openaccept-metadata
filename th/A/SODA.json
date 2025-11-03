@@ -1,0 +1,75 @@
+{
+  "name": "SODA",
+  "full_name": "ACM-SIAM Symposium on Discrete Algorithms",
+  "website": "https://dblp.uni-trier.de/db/conf/soda/index.html",
+  "dblp": "https://dblp.org/db/conf/soda/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 192,
+      "submitted": 655
+    },
+    {
+      "year": 2024,
+      "accepted": 192,
+      "submitted": 652
+    },
+    {
+      "year": 2023,
+      "accepted": 190,
+      "submitted": 652
+    },
+    {
+      "year": 2022,
+      "accepted": 148,
+      "submitted": 491
+    },
+    {
+      "year": 2021,
+      "accepted": 180,
+      "submitted": 641
+    },
+    {
+      "year": 2020,
+      "accepted": 182,
+      "submitted": 589
+    },
+    {
+      "year": 2019,
+      "accepted": 184,
+      "submitted": 586
+    },
+    {
+      "year": 2018,
+      "accepted": 181,
+      "submitted": 547
+    },
+    {
+      "year": 2017,
+      "accepted": 181,
+      "submitted": 533
+    },
+    {
+      "year": 2016,
+      "accepted": 149,
+      "submitted": 527
+    },
+    {
+      "year": 2015,
+      "accepted": 137,
+      "submitted": 495
+    },
+    {
+      "year": 2014,
+      "accepted": 136,
+      "submitted": 485
+    },
+    {
+      "year": 2013,
+      "accepted": 135,
+      "submitted": 454
+    }
+  ],
+  "second_track": "Short Paper",
+  "second_track_yearly_data": []
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Eurocrypt",
+  "full_name": "Eurocrypt: International Conference on the Theory and Applications of Cryptographic Techniques",
+  "website": "https://www.iacr.org/meetings/eurocrypt/",
+  "dblp": "https://dblp.org/db/conf/eurocrypt/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 105,
+      "submitted": 482
+    },
+    {
+      "year": 2023,
+      "accepted": 109,
+      "submitted": 415
+    },
+    {
+      "year": 2022,
+      "accepted": 85,
+      "submitted": 369
+    },
+    {
+      "year": 2021,
+      "accepted": 78,
+      "submitted": 401
+    },
+    {
+      "year": 2020,
+      "accepted": 81,
+      "submitted": 375
+    },
+    {
+      "year": 2019,
+      "accepted": 76,
+      "submitted": 327
+    },
+    {
+      "year": 2018,
+      "accepted": 69,
+      "submitted": 294
+    },
+    {
+      "year": 2017,
+      "accepted": 67,
+      "submitted": 264
+    },
+    {
+      "year": 2016,
+      "accepted": 62,
+      "submitted": 274
+    },
+    {
+      "year": 2015,
+      "accepted": 57,
+      "submitted": 194
+    },
+    {
+      "year": 2014,
+      "accepted": 38,
+      "submitted": 197
+    },
+    {
+      "year": 2013,
+      "accepted": 41,
+      "submitted": 202
+    }
+  ],
+  "second_track": null
+}

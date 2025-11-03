@@ -1,0 +1,69 @@
+{
+  "name": "ICSE",
+  "full_name": "International Conference on Software Engineering",
+  "website": "https://www.icse-conferences.org/",
+  "dblp": "https://dblp.org/db/conf/icse/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 234,
+      "submitted": 1051
+    },
+    {
+      "year": 2023,
+      "accepted": 207,
+      "submitted": 780
+    },
+    {
+      "year": 2022,
+      "accepted": 197,
+      "submitted": 691
+    },
+    {
+      "year": 2021,
+      "accepted": 138,
+      "submitted": 615
+    },
+    {
+      "year": 2020,
+      "accepted": 129,
+      "submitted": 617
+    },
+    {
+      "year": 2019,
+      "accepted": 109,
+      "submitted": 504
+    },
+    {
+      "year": 2018,
+      "accepted": 105,
+      "submitted": 502
+    },
+    {
+      "year": 2017,
+      "accepted": 67,
+      "submitted": 415
+    },
+    {
+      "year": 2016,
+      "accepted": 101,
+      "submitted": 530
+    },
+    {
+      "year": 2015,
+      "accepted": 84,
+      "submitted": 452
+    },
+    {
+      "year": 2014,
+      "accepted": 99,
+      "submitted": 496
+    },
+    {
+      "year": 2013,
+      "accepted": 85,
+      "submitted": 461
+    }
+  ],
+  "second_track": null
+}

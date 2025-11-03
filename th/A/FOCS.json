@@ -1,0 +1,69 @@
+{
+  "name": "FOCS",
+  "full_name": "IEEE Annual Symposium on Foundations of Computer Science",
+  "website": "https://ieee-focs.org/",
+  "dblp": "https://dblp.org/db/conf/focs/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 131,
+      "submitted": 500
+    },
+    {
+      "year": 2023,
+      "accepted": 141,
+      "submitted": 421
+    },
+    {
+      "year": 2022,
+      "accepted": 110,
+      "submitted": 296
+    },
+    {
+      "year": 2021,
+      "accepted": 117,
+      "submitted": 340
+    },
+    {
+      "year": 2020,
+      "accepted": 127,
+      "submitted": 399
+    },
+    {
+      "year": 2019,
+      "accepted": 92,
+      "submitted": 318
+    },
+    {
+      "year": 2018,
+      "accepted": 86,
+      "submitted": 320
+    },
+    {
+      "year": 2017,
+      "accepted": 90,
+      "submitted": 323
+    },
+    {
+      "year": 2016,
+      "accepted": 85,
+      "submitted": 307
+    },
+    {
+      "year": 2015,
+      "accepted": 86,
+      "submitted": 314
+    },
+    {
+      "year": 2014,
+      "accepted": 68,
+      "submitted": 273
+    },
+    {
+      "year": 2013,
+      "accepted": 79,
+      "submitted": 281
+    }
+  ],
+  "second_track": null
+}

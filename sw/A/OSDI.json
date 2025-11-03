@@ -1,0 +1,49 @@
+{
+  "name": "OSDI",
+  "full_name": "USENIX Symposium on Operating Systems Design and Implementation",
+  "website": "https://www.usenix.org/conferences/byname/179",
+  "dblp": "https://dblp.org/db/conf/osdi/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 49,
+      "submitted": 272
+    },
+    {
+      "year": 2023,
+      "accepted": 54,
+      "submitted": 255
+    },
+    {
+      "year": 2022,
+      "accepted": 54,
+      "submitted": 253
+    },
+    {
+      "year": 2021,
+      "accepted": 31,
+      "submitted": 165
+    },
+    {
+      "year": 2020,
+      "accepted": 70,
+      "submitted": 400
+    },
+    {
+      "year": 2018,
+      "accepted": 47,
+      "submitted": 257
+    },
+    {
+      "year": 2016,
+      "accepted": 47,
+      "submitted": 260
+    },
+    {
+      "year": 2014,
+      "accepted": 42,
+      "submitted": 228
+    }
+  ],
+  "second_track": null
+}

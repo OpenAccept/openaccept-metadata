@@ -1,0 +1,76 @@
+{
+  "name": "I3D",
+  "full_name": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+  "website": "https://i3dsymposium.org/",
+  "dblp": "https://dblp.org/db/conf/si3d/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 20,
+      "submitted": 57
+    },
+    {
+      "year": 2024,
+      "accepted": 22,
+      "submitted": 47
+    },
+    {
+      "year": 2023,
+      "accepted": 16,
+      "submitted": 39
+    },
+    {
+      "year": 2022,
+      "accepted": 16,
+      "submitted": 34
+    },
+    {
+      "year": 2021,
+      "accepted": 16,
+      "submitted": 34
+    },
+    {
+      "year": 2020,
+      "accepted": 26,
+      "submitted": 60
+    },
+    {
+      "year": 2019,
+      "accepted": 24,
+      "submitted": 49
+    },
+    {
+      "year": 2018,
+      "accepted": 36,
+      "submitted": 70
+    },
+    {
+      "year": 2017,
+      "accepted": 16,
+      "submitted": 45
+    },
+    {
+      "year": 2016,
+      "accepted": 20,
+      "submitted": 48
+    },
+    {
+      "year": 2015,
+      "accepted": 15,
+      "submitted": 39
+    },
+    {
+      "year": 2014,
+      "accepted": 19,
+      "submitted": 47
+    },
+    {
+      "year": 2013,
+      "accepted": 20,
+      "submitted": 68
+    }
+  ],
+  "sources": [
+    "https://www.kesen.realtimerendering.com/#:~:text=Symposium%20on%20Interactive%203D%20Graphics%20and%20Games"
+  ]
+}

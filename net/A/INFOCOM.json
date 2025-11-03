@@ -1,0 +1,74 @@
+{
+  "name": "INFOCOM",
+  "full_name": "IEEE International Conference on Computer Communications",
+  "website": "https://ieee-infocom.org",
+  "dblp": "https://dblp.org/db/conf/infocom/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 272,
+      "submitted": 1458
+    },
+    {
+      "year": 2024,
+      "accepted": 256,
+      "submitted": 1307
+    },
+    {
+      "year": 2023,
+      "accepted": 252,
+      "submitted": 1312
+    },
+    {
+      "year": 2022,
+      "accepted": 224,
+      "submitted": 1129
+    },
+    {
+      "year": 2021,
+      "accepted": 251,
+      "submitted": 1271
+    },
+    {
+      "year": 2020,
+      "accepted": 267,
+      "submitted": 1397
+    },
+    {
+      "year": 2019,
+      "accepted": 288,
+      "submitted": 1464
+    },
+    {
+      "year": 2018,
+      "accepted": 308,
+      "submitted": 1609
+    },
+    {
+      "year": 2017,
+      "accepted": 292,
+      "submitted": 1395
+    },
+    {
+      "year": 2016,
+      "accepted": 300,
+      "submitted": 1644
+    },
+    {
+      "year": 2015,
+      "accepted": 316,
+      "submitted": 1640
+    },
+    {
+      "year": 2014,
+      "accepted": 319,
+      "submitted": 1650
+    },
+    {
+      "year": 2013,
+      "accepted": 279,
+      "submitted": 1613
+    }
+  ],
+  "second_track": null
+}

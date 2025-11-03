@@ -1,0 +1,61 @@
+{
+  "name": "FM",
+  "full_name": "International Symposium on Formal Methods",
+  "website": "https://www.fmeurope.org/symposia/",
+  "dblp": "https://dblp.org/db/conf/fm/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 31,
+      "submitted": 143
+    },
+    {
+      "year": 2023,
+      "accepted": 18,
+      "submitted": 75
+    },
+    {
+      "year": 2021,
+      "accepted": 35,
+      "submitted": 131
+    },
+    {
+      "year": 2019,
+      "accepted": 37,
+      "submitted": 129
+    },
+    {
+      "year": 2018,
+      "accepted": 35,
+      "submitted": 110
+    },
+    {
+      "year": 2016,
+      "accepted": 43,
+      "submitted": 162
+    },
+    {
+      "year": 2015,
+      "accepted": 32,
+      "submitted": 124
+    },
+    {
+      "year": 2014,
+      "accepted": 38,
+      "submitted": 150
+    }
+  ],
+  "second_track": "Long Tool Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 8,
+      "submitted": 21
+    },
+    {
+      "year": 2023,
+      "accepted": 5,
+      "submitted": 8
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "ACM MM",
+  "full_name": "ACM International Conference on Multimedia",
+  "website": "https://dl.acm.org/conference/mm",
+  "dblp": "https://dblp.org/db/conf/acm mm/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1250,
+      "submitted": 5330
+    },
+    {
+      "year": 2024,
+      "accepted": 1150,
+      "submitted": 4385
+    },
+    {
+      "year": 2023,
+      "accepted": 902,
+      "submitted": 3072
+    },
+    {
+      "year": 2022,
+      "accepted": 691,
+      "submitted": 2472
+    },
+    {
+      "year": 2021,
+      "accepted": 542,
+      "submitted": 1942
+    },
+    {
+      "year": 2020,
+      "accepted": 474,
+      "submitted": 1698
+    },
+    {
+      "year": 2019,
+      "accepted": 252,
+      "submitted": 936
+    },
+    {
+      "year": 2018,
+      "accepted": 209,
+      "submitted": 757
+    },
+    {
+      "year": 2017,
+      "accepted": 189,
+      "submitted": 684
+    },
+    {
+      "year": 2016,
+      "accepted": 52,
+      "submitted": 237
+    },
+    {
+      "year": 2015,
+      "accepted": 56,
+      "submitted": 252
+    },
+    {
+      "year": 2014,
+      "accepted": 55,
+      "submitted": 286
+    },
+    {
+      "year": 2013,
+      "accepted": 47,
+      "submitted": 235
+    }
+  ],
+  "second_track": "Short Paper Track",
+  "second_track_yearly_data": [
+    {
+      "year": 2016,
+      "accepted": 127,
+      "submitted": 413
+    },
+    {
+      "year": 2015,
+      "accepted": 117,
+      "submitted": 386
+    },
+    {
+      "year": 2014,
+      "accepted": 117,
+      "submitted": 393
+    },
+    {
+      "year": 2013,
+      "accepted": 77,
+      "submitted": 278
+    }
+  ]
+}

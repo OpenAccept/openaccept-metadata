@@ -1,0 +1,54 @@
+{
+  "name": "CASES",
+  "full_name": "International Conference on Compilers, Architectures, and Synthesis for Embedded Systems",
+  "website": "https://esweek.org/cases/",
+  "dblp": "https://dblp.org/db/conf/cases/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 29,
+      "submitted": 103
+    },
+    {
+      "year": 2023,
+      "accepted": 21,
+      "submitted": 77
+    },
+    {
+      "year": 2022,
+      "accepted": 24,
+      "submitted": 100
+    },
+    {
+      "year": 2021,
+      "accepted": 11,
+      "submitted": 44
+    },
+    {
+      "year": 2018,
+      "accepted": 18,
+      "submitted": 74
+    },
+    {
+      "year": 2016,
+      "accepted": 18,
+      "submitted": 63
+    },
+    {
+      "year": 2015,
+      "accepted": 18,
+      "submitted": 49
+    },
+    {
+      "year": 2014,
+      "accepted": 24,
+      "submitted": 80
+    },
+    {
+      "year": 2013,
+      "accepted": 21,
+      "submitted": 68
+    }
+  ],
+  "second_track": null
+}

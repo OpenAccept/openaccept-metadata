@@ -1,0 +1,69 @@
+{
+  "name": "CAV",
+  "full_name": "International Conference on Computer-Aided Verification",
+  "website": "https://i-cav.org/",
+  "dblp": "https://dblp.org/db/conf/cav/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 69,
+      "submitted": 317
+    },
+    {
+      "year": 2023,
+      "accepted": 67,
+      "submitted": 261
+    },
+    {
+      "year": 2022,
+      "accepted": 51,
+      "submitted": 209
+    },
+    {
+      "year": 2021,
+      "accepted": 79,
+      "submitted": 290
+    },
+    {
+      "year": 2020,
+      "accepted": 65,
+      "submitted": 240
+    },
+    {
+      "year": 2019,
+      "accepted": 67,
+      "submitted": 258
+    },
+    {
+      "year": 2018,
+      "accepted": 65,
+      "submitted": 215
+    },
+    {
+      "year": 2017,
+      "accepted": 57,
+      "submitted": 191
+    },
+    {
+      "year": 2016,
+      "accepted": 58,
+      "submitted": 195
+    },
+    {
+      "year": 2015,
+      "accepted": 69,
+      "submitted": 252
+    },
+    {
+      "year": 2014,
+      "accepted": 57,
+      "submitted": 229
+    },
+    {
+      "year": 2013,
+      "accepted": 70,
+      "submitted": 209
+    }
+  ],
+  "second_track": null
+}

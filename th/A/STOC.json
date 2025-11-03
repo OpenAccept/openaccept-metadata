@@ -1,0 +1,74 @@
+{
+  "name": "STOC",
+  "full_name": "ACM Symposium on Theory of Computing",
+  "website": "https://acm-stoc.org/",
+  "dblp": "https://dblp.org/db/conf/stoc/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 219,
+      "submitted": 735
+    },
+    {
+      "year": 2024,
+      "accepted": 188,
+      "submitted": 592
+    },
+    {
+      "year": 2023,
+      "accepted": 155,
+      "submitted": 480
+    },
+    {
+      "year": 2022,
+      "accepted": 135,
+      "submitted": 457
+    },
+    {
+      "year": 2021,
+      "accepted": 143,
+      "submitted": 498
+    },
+    {
+      "year": 2020,
+      "accepted": 113,
+      "submitted": 440
+    },
+    {
+      "year": 2019,
+      "accepted": 114,
+      "submitted": 424
+    },
+    {
+      "year": 2018,
+      "accepted": 111,
+      "submitted": 416
+    },
+    {
+      "year": 2017,
+      "accepted": 103,
+      "submitted": 422
+    },
+    {
+      "year": 2016,
+      "accepted": 92,
+      "submitted": 370
+    },
+    {
+      "year": 2015,
+      "accepted": 93,
+      "submitted": 347
+    },
+    {
+      "year": 2014,
+      "accepted": 91,
+      "submitted": 319
+    },
+    {
+      "year": 2013,
+      "accepted": 100,
+      "submitted": 360
+    }
+  ],
+  "second_track": null
+}

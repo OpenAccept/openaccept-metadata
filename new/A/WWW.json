@@ -1,0 +1,74 @@
+{
+  "name": "WWW",
+  "full_name": "The ACM Web Conference",
+  "website": "https://WWW.org",
+  "dblp": "https://dblp.org/db/conf/www/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 409,
+      "submitted": 2062
+    },
+    {
+      "year": 2024,
+      "accepted": 405,
+      "submitted": 2008
+    },
+    {
+      "year": 2023,
+      "accepted": 365,
+      "submitted": 1783
+    },
+    {
+      "year": 2022,
+      "accepted": 323,
+      "submitted": 1822
+    },
+    {
+      "year": 2021,
+      "accepted": 355,
+      "submitted": 1736
+    },
+    {
+      "year": 2020,
+      "accepted": 219,
+      "submitted": 1129
+    },
+    {
+      "year": 2019,
+      "accepted": 225,
+      "submitted": 1247
+    },
+    {
+      "year": 2018,
+      "accepted": 170,
+      "submitted": 1155
+    },
+    {
+      "year": 2017,
+      "accepted": 164,
+      "submitted": 966
+    },
+    {
+      "year": 2016,
+      "accepted": 115,
+      "submitted": 727
+    },
+    {
+      "year": 2015,
+      "accepted": 131,
+      "submitted": 929
+    },
+    {
+      "year": 2014,
+      "accepted": 84,
+      "submitted": 645
+    },
+    {
+      "year": 2013,
+      "accepted": 125,
+      "submitted": 831
+    }
+  ],
+  "second_track": null
+}

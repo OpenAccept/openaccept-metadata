@@ -1,0 +1,19 @@
+{
+  "name": "VLDB",
+  "full_name": "International Conference on Very Large Data Bases",
+  "website": "https://vldb.org/pvldb",
+  "dblp": "https://dblp.org/db/conf/vldb/index.html",
+  "yearly_data": [
+    {
+      "year": 2015,
+      "accepted": 151,
+      "submitted": 710
+    },
+    {
+      "year": 2013,
+      "accepted": 127,
+      "submitted": 559
+    }
+  ],
+  "second_track": null
+}

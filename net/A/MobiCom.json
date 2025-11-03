@@ -1,0 +1,69 @@
+{
+  "name": "MobiCom",
+  "full_name": "International Conference on Mobile Computing and Networking",
+  "website": "https://www.sigmobile.org/grav/",
+  "dblp": "https://dblp.org/db/conf/mobicom/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 55,
+      "submitted": 288
+    },
+    {
+      "year": 2023,
+      "accepted": 92,
+      "submitted": 377
+    },
+    {
+      "year": 2022,
+      "accepted": 56,
+      "submitted": 314
+    },
+    {
+      "year": 2021,
+      "accepted": 59,
+      "submitted": 297
+    },
+    {
+      "year": 2020,
+      "accepted": 62,
+      "submitted": 384
+    },
+    {
+      "year": 2019,
+      "accepted": 55,
+      "submitted": 290
+    },
+    {
+      "year": 2018,
+      "accepted": 42,
+      "submitted": 187
+    },
+    {
+      "year": 2017,
+      "accepted": 35,
+      "submitted": 186
+    },
+    {
+      "year": 2016,
+      "accepted": 31,
+      "submitted": 226
+    },
+    {
+      "year": 2015,
+      "accepted": 38,
+      "submitted": 207
+    },
+    {
+      "year": 2014,
+      "accepted": 36,
+      "submitted": 220
+    },
+    {
+      "year": 2013,
+      "accepted": 28,
+      "submitted": 207
+    }
+  ],
+  "second_track": null
+}

@@ -1,0 +1,69 @@
+{
+  "name": "LICS",
+  "full_name": "ACM/IEEE Symposium on Logic in Computer Science",
+  "website": "https://lics.siglog.org/",
+  "dblp": "https://dblp.org/db/conf/lics/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 72,
+      "submitted": 236
+    },
+    {
+      "year": 2023,
+      "accepted": 63,
+      "submitted": 192
+    },
+    {
+      "year": 2022,
+      "accepted": 63,
+      "submitted": 181
+    },
+    {
+      "year": 2021,
+      "accepted": 91,
+      "submitted": 227
+    },
+    {
+      "year": 2020,
+      "accepted": 69,
+      "submitted": 174
+    },
+    {
+      "year": 2019,
+      "accepted": 60,
+      "submitted": 154
+    },
+    {
+      "year": 2018,
+      "accepted": 92,
+      "submitted": 217
+    },
+    {
+      "year": 2017,
+      "accepted": 89,
+      "submitted": 224
+    },
+    {
+      "year": 2016,
+      "accepted": 85,
+      "submitted": 191
+    },
+    {
+      "year": 2015,
+      "accepted": 61,
+      "submitted": 176
+    },
+    {
+      "year": 2014,
+      "accepted": 74,
+      "submitted": 212
+    },
+    {
+      "year": 2013,
+      "accepted": 57,
+      "submitted": 165
+    }
+  ],
+  "second_track": null
+}

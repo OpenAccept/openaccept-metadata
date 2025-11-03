@@ -1,0 +1,69 @@
+{
+  "name": "OOPSLA",
+  "full_name": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+  "website": "https://www.sigplan.org/Conferences/OOPSLA/",
+  "dblp": "https://dblp.org/db/conf/oopsla/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 148,
+      "submitted": 384
+    },
+    {
+      "year": 2023,
+      "accepted": 110,
+      "submitted": 304
+    },
+    {
+      "year": 2022,
+      "accepted": 92,
+      "submitted": 294
+    },
+    {
+      "year": 2021,
+      "accepted": 71,
+      "submitted": 205
+    },
+    {
+      "year": 2020,
+      "accepted": 109,
+      "submitted": 302
+    },
+    {
+      "year": 2019,
+      "accepted": 73,
+      "submitted": 201
+    },
+    {
+      "year": 2018,
+      "accepted": 60,
+      "submitted": 216
+    },
+    {
+      "year": 2017,
+      "accepted": 66,
+      "submitted": 223
+    },
+    {
+      "year": 2016,
+      "accepted": 52,
+      "submitted": 203
+    },
+    {
+      "year": 2015,
+      "accepted": 53,
+      "submitted": 210
+    },
+    {
+      "year": 2014,
+      "accepted": 52,
+      "submitted": 186
+    },
+    {
+      "year": 2013,
+      "accepted": 50,
+      "submitted": 189
+    }
+  ],
+  "second_track": null
+}

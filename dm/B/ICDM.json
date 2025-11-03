@@ -1,0 +1,75 @@
+{
+  "name": "ICDM",
+  "full_name": "IEEE International Conference on Data Mining",
+  "website": "",
+  "dblp": "https://dblp.org/db/conf/icdm/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 176,
+      "submitted": 785
+    },
+    {
+      "year": 2024,
+      "accepted": 118,
+      "submitted": 604
+    },
+    {
+      "year": 2023,
+      "accepted": 200,
+      "submitted": 926
+    },
+    {
+      "year": 2022,
+      "accepted": 174,
+      "submitted": 870
+    },
+    {
+      "year": 2021,
+      "accepted": 198,
+      "submitted": 990
+    },
+    {
+      "year": 2020,
+      "accepted": 183,
+      "submitted": 930
+    },
+    {
+      "year": 2019,
+      "accepted": 194,
+      "submitted": 1046
+    },
+    {
+      "year": 2018,
+      "accepted": 188,
+      "submitted": 948
+    },
+    {
+      "year": 2017,
+      "accepted": 155,
+      "submitted": 778
+    },
+    {
+      "year": 2016,
+      "accepted": 178,
+      "submitted": 904
+    },
+    {
+      "year": 2015,
+      "accepted": 146,
+      "submitted": 807
+    },
+    {
+      "year": 2014,
+      "accepted": 143,
+      "submitted": 727
+    },
+    {
+      "year": 2013,
+      "accepted": 159,
+      "submitted": 809
+    }
+  ],
+  "second_track": null,
+  "remarks": "All papers are submitted in full paper format. Based on manuscript quality and reviewer feedbacks, some papers may be accepted as short papers."
+}

@@ -1,0 +1,104 @@
+{
+  "name": "ACL",
+  "full_name": "Annual Meeting of the Association for Computational Linguistics",
+  "website": "https://www.aclweb.org/portal/",
+  "dblp": "https://dblp.org/db/conf/acl/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1699,
+      "submitted": 8360,
+      "source": "https://aclanthology.org/2025.acl-long.0.pdf"
+    },
+    {
+      "year": 2024,
+      "accepted": 943,
+      "submitted": 4407
+    },
+    {
+      "year": 2023,
+      "accepted": 1074,
+      "submitted": 4864
+    },
+    {
+      "year": 2022,
+      "accepted": 701,
+      "submitted": 3378
+    },
+    {
+      "year": 2021,
+      "accepted": 710,
+      "submitted": 3350
+    },
+    {
+      "year": 2020,
+      "accepted": 571,
+      "submitted": 2248
+    },
+    {
+      "year": 2019,
+      "accepted": 447,
+      "submitted": 1740
+    },
+    {
+      "year": 2018,
+      "accepted": 256,
+      "submitted": 1045
+    },
+    {
+      "year": 2017,
+      "accepted": 195,
+      "submitted": 751
+    },
+    {
+      "year": 2016,
+      "accepted": 231,
+      "submitted": 825
+    },
+    {
+      "year": 2015,
+      "accepted": 173,
+      "submitted": 692
+    },
+    {
+      "year": 2014,
+      "accepted": 146,
+      "submitted": 572
+    },
+    {
+      "year": 2013,
+      "accepted": 174,
+      "submitted": 664
+    }
+  ],
+  "second_track": "Findings",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 1392,
+      "submitted": 8360,
+      "source": "https://aclanthology.org/2025.acl-long.0.pdf"
+    },
+    {
+      "year": 2024,
+      "accepted": 976,
+      "submitted": 4407
+    },
+    {
+      "year": 2023,
+      "accepted": 901,
+      "submitted": 4864
+    },
+    {
+      "year": 2022,
+      "accepted": 331,
+      "submitted": 3378
+    },
+    {
+      "year": 2021,
+      "accepted": 361,
+      "submitted": 3350
+    }
+  ],
+  "remarks": "In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue."
+}
