@@ -63,6 +63,11 @@
   "second_track": "Short Paper Track",
   "second_track_yearly_data": [
     {
+      "year": 2025,
+      "accepted": 185,
+      "submitted": 604
+    },
+    {
       "year": 2024,
       "accepted": 141,
       "submitted": 527
