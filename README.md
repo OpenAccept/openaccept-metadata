@@ -20,7 +20,7 @@ We welcome community-driven updates to the OAc repository. Follow these steps to
 3. Submit a Pull Request with your edits, including clear data sources.
 4. The maintainers will review your PR; once approved, it will be merged.
 
-Please note that by contributing, you agree to OAc's [Terms of Use](https://openaccept.org/).
+Please note that by contributing, you agree to OAc's [Terms of Use](https://openaccept.org/tou/).
 
 ### Data format
 All conference entries must be valid JSON and adhere to one of the two templates below.
