@@ -5,9 +5,34 @@
   "dblp": "https://dblp.org/db/conf/ubicomp/index.html",
   "yearly_data": [
     {
+      "year": 2020,
+      "accepted": 121,
+      "submitted": 600
+    },
+    {
+      "year": 2019,
+      "accepted": 176,
+      "submitted": 700
+    },
+    {
+      "year": 2018,
+      "accepted": 207,
+      "submitted": 757
+    },
+    {
+      "year": 2017,
+      "accepted": 120,
+      "submitted": 568
+    },
+    {
       "year": 2016,
-      "accepted": 101,
+      "accepted": 100,
       "submitted": 389
+    },
+    {
+      "year": 2015,
+      "accepted": 101,
+      "submitted": 394
     },
     {
       "year": 2014,
@@ -20,5 +45,8 @@
       "submitted": 394
     }
   ],
-  "second_track": null
+  "second_track": null,
+  "sources": [
+    "https://www.zhihu.com/question/586788238/answer/3208605041"
+  ]
 }

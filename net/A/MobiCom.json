@@ -5,9 +5,16 @@
   "dblp": "https://dblp.org/db/conf/mobicom/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 77,
+      "submitted": 588,
+      "source": "https://binbin-xie.github.io/"
+    },
+    {
       "year": 2024,
-      "accepted": 55,
-      "submitted": 288
+      "accepted": 103,
+      "submitted": 495,
+      "source": "https://www.cse.msu.edu/~ghtu/publications.html"
     },
     {
       "year": 2023,
@@ -65,5 +72,6 @@
       "submitted": 207
     }
   ],
-  "second_track": null
+  "second_track": null,
+  "remarks": "From 2023 onwards, MobiCom adopts a two-cycle submission process. #submitted and #accepted are the total number of two cycles. [2024] summer run: 48/207; winter run: 55/288. [2025] summer run: 41/240; winter run: 36/348."
 }
