@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/asplos/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 160,
+      "submitted": 912,
+      "source": "https://paper.lingyunyang.com/reading-notes/conference/asplos-2025"
+    },
+    {
       "year": 2024,
       "accepted": 193,
       "submitted": 922

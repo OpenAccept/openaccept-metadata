@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/rtss/index.html",
   "yearly_data": [
     {
+      "year": 2024,
+      "accepted": 32,
+      "submitted": 140,
+      "source": "https://dl.acm.org/doi/10.1145/3274285"
+    },
+    {
       "year": 2023,
       "accepted": 32,
       "submitted": 126

@@ -5,9 +5,16 @@
   "dblp": "https://dblp.org/db/conf/cscw/index.html",
   "yearly_data": [
     {
+      "year": 2019,
+      "accepted": 205,
+      "submitted": 658,
+      "source": "https://dl.acm.org/doi/10.1145/3359125"
+    },
+    {
       "year": 2018,
-      "accepted": 289,
-      "submitted": 1107
+      "accepted": 184,
+      "submitted": 722,
+      "source": "https://dl.acm.org/doi/10.1145/32742856"
     },
     {
       "year": 2017,

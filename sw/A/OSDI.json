@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/osdi/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 48,
+      "submitted": 327,
+      "source": "https://paper.lingyunyang.com/reading-notes/conference/osdi-2025"
+    },
+    {
       "year": 2024,
       "accepted": 49,
       "submitted": 272

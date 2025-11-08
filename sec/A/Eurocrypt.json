@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/eurocrypt/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 123,
+      "submitted": 602,
+      "source": "https://link.springer.com/book/10.1007/978-3-031-91107-1"
+    },
+    {
       "year": 2024,
       "accepted": 105,
       "submitted": 482

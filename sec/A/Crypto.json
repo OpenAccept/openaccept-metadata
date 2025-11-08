@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/crypto/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 156,
+      "submitted": 643,
+      "source": "https://link.springer.com/book/10.1007/978-3-032-01855-7"
+    },
+    {
       "year": 2024,
       "accepted": 143,
       "submitted": 519
