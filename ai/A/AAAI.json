@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/aaai/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "submitted": 23680,
+      "accepted": 4167
+    },
+    {
       "year": 2025,
       "submitted": 12957,
       "accepted": 3032
