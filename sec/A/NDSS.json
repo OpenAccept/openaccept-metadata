@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/ndss/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 211,
+      "submitted": 1311,
+      "source": "https://yhongcs.github.io/pub.html"
+    },
+    {
       "year": 2024,
       "accepted": 140,
       "submitted": 682

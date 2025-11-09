@@ -2,8 +2,14 @@
   "name": "IEEE S&P",
   "full_name": "IEEE Symposium on Security and Privacy",
   "website": "https://www.ieee-security.org/",
-  "dblp": "https://dblp.org/db/conf/ieee s&p/index.html",
+  "dblp": "https://dblp.org/db/conf/sp/index.html",
   "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 257,
+      "submitted": 1740,
+      "source": "https://ieeexplore.ieee.org/document/11023347"
+    },
     {
       "year": 2024,
       "accepted": 261,

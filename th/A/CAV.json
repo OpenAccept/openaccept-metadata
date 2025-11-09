@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/cav/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 79,
+      "submitted": 305
+    },
+    {
       "year": 2024,
       "accepted": 69,
       "submitted": 317
