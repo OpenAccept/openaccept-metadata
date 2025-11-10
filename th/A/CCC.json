@@ -2,8 +2,14 @@
   "name": "CCC",
   "full_name": "Computational Complexity Conference",
   "website": "https://computationalcomplexity.org/",
-  "dblp": "https://dblp.org/db/conf/ccc/index.html",
+  "dblp": "https://dblp.org/db/conf/coco/index.html",
   "yearly_data": [
+    { 
+      "year": 2025, 
+      "accepted": 36, 
+      "submitted": 91,
+      "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol339-ccc2025/LIPIcs.CCC.2025.0/LIPIcs.CCC.2025.0.pdf#page=9.11"
+    },
     {
       "year": 2024,
       "accepted": 36,

@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/icse/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 245,
+      "submitted": 1150,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029769"
+    },
+    {
       "year": 2024,
       "accepted": 234,
       "submitted": 1051

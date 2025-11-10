@@ -2,8 +2,14 @@
   "name": "FSE-ESEC",
   "full_name": "ACM International Conference on the Foundations of Software Engineering",
   "website": "https://www.esec-fse.org/index",
-  "dblp": "https://dblp.org/db/conf/fse/index.html",
+  "dblp": "https://dblp.org/db/conf/sigsoft/",
   "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 135,
+      "submitted": 612,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3696630"
+    },
     {
       "year": 2024,
       "accepted": 121,
@@ -65,5 +71,6 @@
       "submitted": 251
     }
   ],
-  "second_track": null
+  "second_track": null,
+  "remarks": "This venue was previously known as 'ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering'."
 }
