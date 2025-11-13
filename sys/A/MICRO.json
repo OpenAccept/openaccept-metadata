@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/micro/index.html",
   "yearly_data": [
     {
+      "year": 2024,
+      "accepted": 113,
+      "submitted": 497,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10764564"
+    },
+    {
       "year": 2023,
       "accepted": 101,
       "submitted": 434

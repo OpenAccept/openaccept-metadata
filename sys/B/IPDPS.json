@@ -2,12 +2,19 @@
   "name": "IPDPS",
   "full_name": "IEEE International Parallel and Distributed Processing Symposium",
   "website": "https://www.ipdps.org/",
-  "dblp": "https://dblp.org/db/conf/ipdps/index.html",
+  "dblp": "https://dblp.org/db/conf/ipps/index.html",
   "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 105,
+      "submitted": 425,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078542"
+    },
     {
       "year": 2024,
       "accepted": 88,
-      "submitted": 337
+      "submitted": 337,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10579209"
     },
     {
       "year": 2023,

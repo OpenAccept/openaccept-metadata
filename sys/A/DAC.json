@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/dac/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 420,
+      "submitted": 1862,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11132880"
+    },
+    {
       "year": 2024,
       "accepted": 337,
       "submitted": 1545
