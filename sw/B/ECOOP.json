@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/ecoop/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 42,
+      "submitted": 102,
+      "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.0/LIPIcs.ECOOP.2025.0.pdf"
+    },
+    {
       "year": 2024,
       "accepted": 47,
       "submitted": 112

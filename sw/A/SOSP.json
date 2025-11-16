@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/sosp/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 66,
+      "submitted": 370,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3731569"
+    },
+    {
       "year": 2024,
       "accepted": 43,
       "submitted": 245
