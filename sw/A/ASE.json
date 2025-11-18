@@ -5,19 +5,24 @@
   "dblp": "https://dblp.org/db/conf/kbse/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 246,
+      "submitted": 1181
+    },
+    {
       "year": 2024,
       "accepted": 155,
-      "submitted": 568
+      "submitted": 587
     },
     {
       "year": 2023,
       "accepted": 134,
-      "submitted": 630
+      "submitted": 629
     },
     {
       "year": 2022,
       "accepted": 116,
-      "submitted": 527
+      "submitted": 531
     },
     {
       "year": 2021,
