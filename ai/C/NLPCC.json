@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/nlpcc/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 152,
+      "submitted": 505,
+      "source": "https://link.springer.com/book/10.1007/978-981-95-3349-7"
+    },
+    {
       "year": 2024,
       "accepted": 161,
       "submitted": 451
