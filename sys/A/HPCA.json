@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/hpca/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 119,
+      "submitted": 602,
+    },
+    {
       "year": 2025,
       "accepted": 112,
       "submitted": 534,
