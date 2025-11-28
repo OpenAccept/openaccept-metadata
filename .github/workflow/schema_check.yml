@@ -1,0 +1,49 @@
+name: Validate venue JSON files
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema
+
+      - name: Get changed JSON files
+        id: changed-files
+        run: |
+          git fetch origin ${{ github.base_ref }} --depth=1
+          CHANGED_JSON=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.json' | xargs)
+          echo "changed_json=$CHANGED_JSON"
+          echo "changed_json=$CHANGED_JSON" >> "$GITHUB_OUTPUT"
+
+      - name: Validate changed JSON files
+        if: steps.changed-files.outputs.changed_json != ''
+        run: |
+          echo "Changed JSON files:"
+          echo "${{ steps.changed-files.outputs.changed_json }}"
+
+          python .scripts/check.py
+        env:
+          CHANGED_JSON: ${{ steps.changed-files.outputs.changed_json }}
+
+      - name: No changed JSON files
+        if: steps.changed-files.outputs.changed_json == ''
+        run: echo "This PR does not change any JSON files. Skipping validation."
