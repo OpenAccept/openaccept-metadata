@@ -32,8 +32,8 @@ All conference entries must be valid JSON and adhere to one of the two templates
   "website": "Website URL",
   "dblp": "DBLP URL",
   "yearly_data": [
-    { "year": 2025, "submitted": 12957, "accepted": 3032 },
-    { "year": 2024, "submitted": 9862, "accepted": 2342 }
+    { "year": 2025, "submitted": 12957, "accepted": 3032, "source": "https://url.here" },
+    { "year": 2024, "submitted": 9862, "accepted": 2342, "source": "https://url.here" }
   ],
   "sources": [
     "https://urls.here"
@@ -77,7 +77,7 @@ If the conference has a secondary track (currently, OAc only takes *short papers
 | sources | Array of data sources | No | Where data can be acquired in bulk. For instance, someone's blog that keeps track of acceptance rates over the past few years. |
 
 > [!NOTE]
-> - [1]: Data source is optional. However, we strongly recommend including the data source for each entry. If it's a picture, please upload to image hosting services such as [Imgur](https://imgur.com/), and [Imgchr](https://imgchr.com/).
+> - [1]: We strongly suggest including the data source for each entry. If it's a photo taken on-site, please upload to image hosting services such as [Imgur](https://imgur.com/), and [Imgchr](https://imgchr.com/).
 > - [2]: Only required when there is a secondary track.
 
 
