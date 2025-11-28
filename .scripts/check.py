@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from jsonschema import Draft202012Validator
 
-schema_path = Path(".schema/conference-schema.json")
+schema_path = Path(".schema/conference-schema.jsons")
 with schema_path.open("r", encoding="utf-8") as f:
     schema = json.load(f)
 validator = Draft202012Validator(schema)
