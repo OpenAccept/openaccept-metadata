@@ -1,9 +1,7 @@
 {
   "name": "ECCV",
   "full_name": "European Conference on Computer Vision",
-  "website": [
-    "https://www.ecva.net/index.php"
-  ],
+  "website": "https://www.ecva.net/index.php",
   "dblp": "https://dblp.org/db/conf/eccv/index.html",
   "yearly_data": [
     {

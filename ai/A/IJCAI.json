@@ -1,9 +1,7 @@
 {
   "name": "IJCAI",
   "full_name": "International Joint Conference on Artificial Intelligence",
-  "website": [
-    "https://www.ijcai.org/future_conferences"
-  ],
+  "website": "https://www.ijcai.org/future_conferences",
   "dblp": "https://dblp.org/db/conf/ijcai/index.html",
   "yearly_data": [
     {

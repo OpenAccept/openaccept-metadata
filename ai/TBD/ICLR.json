@@ -1,9 +1,7 @@
 {
   "name": "ICLR",
   "full_name": "International Conference on Learning Representations",
-  "website": [
-    "https://iclr.cc/"
-  ],
+  "website": "https://iclr.cc/",
   "dblp": "https://dblp.org/db/conf/iclr/index.html",
   "yearly_data": [
     {
