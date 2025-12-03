@@ -1,7 +1,6 @@
 # Open Accept Metadata - A Repository for CS Conference Acceptance Rates
 
 ![GitHub License](https://img.shields.io/github/license/OpenAccept/openaccept-metadata)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U61PEP4N)
 [![Bluesky followers](https://img.shields.io/bluesky/followers/openaccept.org)](https://bsky.app/profile/openaccept.org)
 
 > To browse acceptance rates in a more interactive format, please visit the [Open Accept main site](https://openaccept.org/).
