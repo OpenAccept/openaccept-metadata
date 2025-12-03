@@ -1,5 +1,9 @@
 # Open Accept Metadata - A Repository for CS Conference Acceptance Rates
 
+![GitHub License](https://img.shields.io/github/license/OpenAccept/openaccept-metadata)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U61PEP4N)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/openaccept.org)](https://bsky.app/profile/openaccept.org)
+
 > To browse acceptance rates in a more interactive format, please visit the [Open Accept main site](https://openaccept.org/).
 
 Open Accept (OAc) is a collaborative platform for collecting and sharing metadata on paper acceptance rates at global computer science conferences. Our goal is to provide essential insights into the CS research community by aggregating publicly available statistics.
