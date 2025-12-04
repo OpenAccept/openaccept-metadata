@@ -6,70 +6,140 @@
   "yearly_data": [
     {
       "year": 2025,
-      "accepted": 176,
+      "accepted": 106,
       "submitted": 785
     },
     {
       "year": 2024,
-      "accepted": 118,
+      "accepted": 67,
       "submitted": 604
     },
     {
       "year": 2023,
-      "accepted": 200,
-      "submitted": 926
+      "accepted": 93,
+      "submitted": 1003
     },
     {
       "year": 2022,
-      "accepted": 174,
+      "accepted": 85,
       "submitted": 870
     },
     {
       "year": 2021,
-      "accepted": 198,
+      "accepted": 98,
       "submitted": 990
     },
     {
       "year": 2020,
-      "accepted": 183,
+      "accepted": 91,
       "submitted": 930
     },
     {
       "year": 2019,
-      "accepted": 194,
+      "accepted": 95,
       "submitted": 1046
     },
     {
       "year": 2018,
-      "accepted": 188,
+      "accepted": 84,
       "submitted": 948
     },
     {
       "year": 2017,
-      "accepted": 155,
+      "accepted": 72,
       "submitted": 778
     },
     {
       "year": 2016,
-      "accepted": 178,
+      "accepted": 78,
       "submitted": 904
     },
     {
       "year": 2015,
-      "accepted": 146,
+      "accepted": 68,
       "submitted": 807
     },
     {
       "year": 2014,
-      "accepted": 143,
+      "accepted": 71,
       "submitted": 727
     },
     {
       "year": 2013,
-      "accepted": 159,
+      "accepted": 94,
       "submitted": 809
     }
   ],
-  "second_track": null,
-  "remarks": "All papers are submitted in full paper format. Based on manuscript quality and reviewer feedbacks, some papers may be accepted as short papers."
+  "second_track": "Short Paper",
+  "second_track_yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 70,
+      "submitted": 785
+    },
+    {
+      "year": 2024,
+      "accepted": 51,
+      "submitted": 604
+    },
+    {
+      "year": 2023,
+      "accepted": 107,
+      "submitted": 1003
+    },
+    {
+      "year": 2022,
+      "accepted": 89,
+      "submitted": 870
+    },
+    {
+      "year": 2021,
+      "accepted": 100,
+      "submitted": 990
+    },
+    {
+      "year": 2020,
+      "accepted": 92,
+      "submitted": 930
+    },
+    {
+      "year": 2019,
+      "accepted": 99,
+      "submitted": 1046
+    },
+    {
+      "year": 2018,
+      "accepted": 104,
+      "submitted": 948
+    },
+    {
+      "year": 2017,
+      "accepted": 83,
+      "submitted": 778
+    },
+    {
+      "year": 2016,
+      "accepted": 100,
+      "submitted": 904
+    },
+    {
+      "year": 2015,
+      "accepted": 78,
+      "submitted": 807
+    },
+    {
+      "year": 2014,
+      "accepted": 17,
+      "submitted": 727
+    },
+    {
+      "year": 2013,
+      "accepted": 65,
+      "submitted": 809
+    }
+  ],
+  "remarks": "All papers are submitted in full paper format. Based on manuscript quality and reviewer feedbacks, some may be accepted as short papers.",
+  "sources": [
+    "https://icdm.zhonghuapu.com/ICDMAcceptanceRates.shtml"
+  ]
 }
