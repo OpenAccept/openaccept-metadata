@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/isca/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 132,
+      "submitted": 570,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3695053#page=17.11"
+    },
+    {
       "year": 2024,
       "accepted": 83,
       "submitted": 423
