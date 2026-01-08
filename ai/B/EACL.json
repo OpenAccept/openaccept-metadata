@@ -1,0 +1,24 @@
+{
+  "name": "EACL",
+  "full_name": "Conference of the European Chapter of the Association for Computational Linguistics.",
+  "website": "https://eacl.org/conferences/index.html",
+  "dblp": "https://dblp.org/db/conf/eacl/index.html",
+  "yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 226,
+      "submitted": 1275,
+      "source": "https://aclanthology.org/2024.eacl-long.0.pdf"
+    },
+  ],
+  "second_track": "Findings",
+  "second_track_yearly_data": [
+    {
+      "year": 2024,
+      "accepted": 163,
+      "submitted": 1275,
+      "source": "https://aclanthology.org/2024.eacl-long.0.pdf"
+    }
+  ],
+  "remarks": "EACL is only held in Europe. EACL will be skipped when ACL is held in Europe. In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue."
+}
