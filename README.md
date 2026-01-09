@@ -108,10 +108,10 @@ OAc primarily adoptes the taxonomy used in [CCF's Recommended International Conf
         Computer Networks</li>
     <li>
         <b>SEC</b>:
-        Networks and Cybersecurity</li>
+        Cybersecurity/System Security</li>
     <li>
         <b>SW</b>:
-        Software Engineering/System Softwares</li>
+        Software Engineering/System Software</li>
     <li>
         <b>SYS</b>:
         Computer Systems/Architecture</li>
