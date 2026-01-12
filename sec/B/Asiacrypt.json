@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/asiacrypt/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 143,
+      "submitted": 533,
+      "source": "https://link.springer.com/book/10.1007/978-981-95-5018-0"
+    },
+    {
       "year": 2024,
       "accepted": 127,
       "submitted": 433

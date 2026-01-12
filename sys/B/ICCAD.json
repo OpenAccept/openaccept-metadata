@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/iccad/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 266,
+      "submitted": 1078,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11240766"
+    },
+    {
       "year": 2024,
       "accepted": 195,
       "submitted": 802

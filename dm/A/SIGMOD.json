@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/sigmod/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 250,
+      "submitted": 1008,
+      "source": "https://dl.acm.org/doi/pdf/10.1145/3725255"
+    },
+    {
       "year": 2024,
       "accepted": 213,
       "submitted": 768
