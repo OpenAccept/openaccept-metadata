@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/www/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 676,
+      "submitted": 3370
+    },
+    {
       "year": 2025,
       "accepted": 409,
       "submitted": 2062
