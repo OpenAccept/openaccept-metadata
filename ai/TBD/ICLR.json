@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/iclr/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 5339,
+      "submitted": 18949
+    },
+    {
       "year": 2025,
       "accepted": 3710,
       "submitted": 11565
