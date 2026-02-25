@@ -5,9 +5,9 @@ Last update: Oct 23rd, 2025
 
 ### Preamble
 
-Open Accept (OAc) is a community‑driven open‑source project for collecting and sharing metadata on paper acceptance rates at global computer science conferences. We value the contributions of all participants and strive to create a welcoming, respectful, and inclusive environment. This Code of Conduct (CoC) outlines the standards of behavior we expect from anyone who interacts with the project—whether as a contributor, maintainer, reviewer, or user.
+OpenAccept (OAc) is a community‑driven open‑source project for collecting and sharing metadata on paper acceptance rates at global computer science conferences. We value the contributions of all participants and strive to create a welcoming, respectful, and inclusive environment. This Code of Conduct (CoC) outlines the standards of behavior we expect from anyone who interacts with the project—whether as a contributor, maintainer, reviewer, or user.
 
-By participating in Open Accept, you agree to abide by this CoC. We are committed to fostering a safe space where everyone can collaborate without fear of harassment or discrimination.
+By participating in OpenAccept, you agree to abide by this CoC. We are committed to fostering a safe space where everyone can collaborate without fear of harassment or discrimination.
 
 
 ### Our Standards
@@ -47,7 +47,7 @@ We expect participants to:
 
 ### Scope
 
-This CoC applies to all spaces related to Open Accept, including but not limited to:
+This CoC applies to all spaces related to OpenAccept, including but not limited to:
 
 - Public and private repositories (GitHub, GitLab, Bitbucket, etc.).
 - Issue trackers, pull‑request reviews, and project boards.
