@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/sigir/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 234,
+      "submitted": 1271
+    },
+    {
       "year": 2025,
       "accepted": 239,
       "submitted": 1071
