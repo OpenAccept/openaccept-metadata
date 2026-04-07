@@ -98,7 +98,7 @@ If the conference has a secondary track (currently, OAc only takes *short papers
 > - [1]: We strongly suggest including the data source for each entry. If it's a photo taken on-site, please upload to image hosting services such as [Imgur](https://imgur.com/), and [Imgchr](https://imgchr.com/).
 > - [2]: Only required when there is a secondary track.
 
-> [!INFO]
+> [!NOTE]
 > We are still working on including **CORE Ranking** in OpenAccept.
 
 ## Adding New Conferences
