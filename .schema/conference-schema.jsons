@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Conference Statistics Schema",
   "type": "object",
-  "required": ["name", "full_name", "website", "dblp", "yearly_data"],
+  "required": ["name", "full_name", "website", "dblp", "yearly_data", "ratings"],
   "additionalProperties": false,
   "properties": {
     "name": {
@@ -87,6 +87,21 @@
       "items": {
         "type": "string",
         "format": "uri"
+      }
+    },
+    "ratings": {
+      "type": "object",
+      "required": ["CCF2022", "CCF2026"],
+      "additionalProperties": false,
+      "properties": {
+        "CCF2022": {
+          "type": "string",
+          "enum": ["A", "B", "C", "TBD"]
+        },
+        "CCF2026": {
+          "type": "string",
+          "enum": ["A", "B", "C", "TBD"]
+        }
       }
     }
   },

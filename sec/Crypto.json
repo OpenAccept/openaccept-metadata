@@ -1,0 +1,79 @@
+{
+  "name": "Crypto",
+  "full_name": "International Cryptology Conference",
+  "website": "https://www.iacr.org/meetings/crypto/",
+  "dblp": "https://dblp.org/db/conf/crypto/index.html",
+  "yearly_data": [
+    {
+      "year": 2025,
+      "accepted": 156,
+      "submitted": 643,
+      "source": "https://link.springer.com/book/10.1007/978-3-032-01855-7"
+    },
+    {
+      "year": 2024,
+      "accepted": 143,
+      "submitted": 519
+    },
+    {
+      "year": 2023,
+      "accepted": 124,
+      "submitted": 479
+    },
+    {
+      "year": 2022,
+      "accepted": 99,
+      "submitted": 452
+    },
+    {
+      "year": 2021,
+      "accepted": 103,
+      "submitted": 414
+    },
+    {
+      "year": 2020,
+      "accepted": 85,
+      "submitted": 371
+    },
+    {
+      "year": 2019,
+      "accepted": 81,
+      "submitted": 378
+    },
+    {
+      "year": 2018,
+      "accepted": 79,
+      "submitted": 351
+    },
+    {
+      "year": 2017,
+      "accepted": 72,
+      "submitted": 311
+    },
+    {
+      "year": 2016,
+      "accepted": 70,
+      "submitted": 274
+    },
+    {
+      "year": 2015,
+      "accepted": 74,
+      "submitted": 266
+    },
+    {
+      "year": 2014,
+      "accepted": 60,
+      "submitted": 227
+    },
+    {
+      "year": 2013,
+      "accepted": 61,
+      "submitted": 227
+    }
+  ],
+  "second_track": null,
+  "ratings": {
+    "CCF2022": "A",
+    "CCF2026": "A"
+  }
+}

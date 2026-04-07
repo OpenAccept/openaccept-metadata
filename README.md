@@ -9,13 +9,13 @@ OpenAccept (OAc) is a collaborative platform for collecting and sharing metadata
 
 As conference data is often scattered across web platforms and formats, community collaboration is vital to achieving comprehensive, accurate, and up-to-date records. OAc leverages this collaboration to build a centralized, open-source resource for researchers and academia.
 
-## Where can I find the data?
+## Where to Find Data
 - **Social media platforms**. Researchers frequently share acceptance emails or paper notifications on platforms like Twitter/X, LinkedIn, or Xiaohongshu (Red Note). Search for keywords such as "accepted" or "notification" alongside conference names.
 - **Conference websites**. Many venues publish detailed reports directly, such as the [CHI 2025 Paper Outcomes Report](https://chi2025.acm.org/chi-2025-papers-track-post-pc-outcomes-report/).
-- **Conference proceddings**. Acceptance rates are often mentioned in the "Preface" or "Chairs' Notes" sections of conference proceedings. For example, see [ICDE 2024 Proceddings, "A Message from the Chairs"](https://ieeexplore.ieee.org/document/10598037).
+- **Conference proceedings**. Acceptance rates are often mentioned in the "Preface" or "Chairs' Notes" sections of conference proceedings. For example, see [ICDE 2024 Proceedings, "A Message from the Chairs"](https://ieeexplore.ieee.org/document/10598037).
 - **On-site slides**. Chairs may present acceptance statistics during opening or closing sessions. Photos of these slides are sometimes shared on social media.
 
-## How can I contribute?
+## How to Contribute
 We welcome community-driven updates to the OAc repository. Follow these steps to contribute:
 
 1. Fork the Repository and make changes.
@@ -25,7 +25,7 @@ We welcome community-driven updates to the OAc repository. Follow these steps to
 
 Please note that by contributing, you agree to OAc's [Terms of Use](https://openaccept.org/tou/).
 
-### Data format
+### Data Format
 All conference entries must be valid JSON and adhere to one of the two templates below.
 #### Primary (single‑track) template
 ```json
@@ -38,10 +38,14 @@ All conference entries must be valid JSON and adhere to one of the two templates
     { "year": 2025, "submitted": 12957, "accepted": 3032, "source": "https://url.here" },
     { "year": 2024, "submitted": 9862, "accepted": 2342, "source": "https://url.here" }
   ],
+  "remarks": "Any additional notes, optional",
   "sources": [
     "https://urls.here"
   ],
-  "remarks": "Any additional notes, optional"
+  "ratings": {
+    "CCF2022": "A",
+    "CCF2026": "A"
+  }
 }
 ```
 #### Secondary‑track template
@@ -64,28 +68,41 @@ If the conference has a secondary track (currently, OAc only takes *short papers
   "remarks": "Any additional notes, optional",
   "sources": [
     "https://urls.here"
-  ]
+  ],
+  "ratings": {
+    "CCF2022": "A",
+    "CCF2026": "A"
+  }
 }
 ```
 | Field | Description | Required | Remarks |
 | --- | --- | --- | --- |
-| name | Conference abbreviation | Yes | In most cases, the abbr. should be unique, all caps. But there are exceptions, e.g., “RecSys” and “MobiSys”.|
+| name | Conference abbreviation | Yes | In most cases, the abbr. should be unique, all caps. But there are exceptions, e.g., "RecSys" and "MobiSys".|
 | full_name | Conference full name | Yes ||
-| website | Conference website | Yes | If the conference does not have a dedicated website, please use the latest year’s website.|
+| website | Conference website | Yes | If the conference does not have a dedicated website, please use the latest year's website.|
 | dblp | Conference DBLP URL | Yes | |
 | yearly_data | Array of yearly data | Yes | Each entry should include the year, # of submitted papers, # of accepted papers, and data source<sup>[1]</sup>. |
 | second_track | Secondary track name | Depends<sup>[2]</sup> | If the conference has a secondary track, please specify the track name. |
 | second_track_yearly_data | Array of yearly data for the secondary track | Depends<sup>[2]</sup> | Each entry should include the year, # of submitted papers, # of accepted papers, and data source<sup>[1]</sup>. |
-|remarks | Additional notes | No | Any additional notes, optional. |
+| remarks | Additional notes | No | Any additional notes, optional. |
 | sources | Array of data sources | No | Where data can be acquired in bulk. For instance, someone's blog that keeps track of acceptance rates over the past few years. |
+| ratings | Conference ratings | Yes | Ratings by different organizations, see table below. |
 
-> [!NOTE]
+#### ratings field
+| Sub-field | Description | Required | Remarks |
+| --- | --- | --- | --- |
+| CCF2022 | CCF 2022 catalog (6th edition) rating | Yes | Must be one of: `A`, `B`, `C`, `TBD` |
+| CCF2026 | CCF 2026 catalog (7th edition) rating | Yes | Must be one of: `A`, `B`, `C`, `TBD` |
+
+> [!IMPORTANT]
 > - [1]: We strongly suggest including the data source for each entry. If it's a photo taken on-site, please upload to image hosting services such as [Imgur](https://imgur.com/), and [Imgchr](https://imgchr.com/).
 > - [2]: Only required when there is a secondary track.
 
+> [!INFO]
+> We are still working on including **CORE Ranking** in OpenAccept.
 
-## Add new conferences
-OAc primarily adoptes the taxonomy used in [CCF's Recommended International Conferences and Journals Catalog (written in Chinese)](https://www.ccf.org.cn/Academic_Evaluation/By_category/) to categorize conferences into 10 topics:
+## Adding New Conferences
+OAc primarily adopts the taxonomy used in [CCF's Recommended International Conferences and Journals Catalog (written in Chinese)](https://www.ccf.org.cn/Academic_Evaluation/By_category/) to categorize conferences into 10 topics:
 <ul>
     <li>
         <b>AI</b>:
