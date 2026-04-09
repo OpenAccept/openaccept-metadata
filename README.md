@@ -44,7 +44,8 @@ All conference entries must be valid JSON and adhere to one of the two templates
   ],
   "ratings": {
     "CCF2022": "A",
-    "CCF2026": "A"
+    "CCF2026": "A",
+    "ICORE2026": "A*"
   }
 }
 ```
@@ -71,7 +72,8 @@ If the conference has a secondary track (currently, OAc only takes *short papers
   ],
   "ratings": {
     "CCF2022": "A",
-    "CCF2026": "A"
+    "CCF2026": "A",
+    "ICORE2026": "A*"
   }
 }
 ```
