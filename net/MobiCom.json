@@ -76,6 +76,7 @@
   "remarks": "From 2023 onwards, MobiCom adopts a two-cycle submission process. #submitted and #accepted are the total number of two cycles. [2024] summer run: 48/207; winter run: 55/288. [2025] summer run: 41/240; winter run: 36/348.",
   "ratings": {
     "CCF2022": "A",
-    "CCF2026": "A"
+    "CCF2026": "A",
+    "ICORE2026": "A*"
   }
 }

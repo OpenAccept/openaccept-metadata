@@ -55,6 +55,7 @@
   "remarks": "EACL is only held in Europe. EACL will be skipped when ACL is held in Europe. In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue.",
   "ratings": {
     "CCF2022": "TBD",
-    "CCF2026": "TBD"
+    "CCF2026": "TBD",
+    "ICORE2026": "A"
   }
 }

@@ -93,13 +93,11 @@ If the conference has a secondary track (currently, OAc only takes *short papers
 | --- | --- | --- | --- |
 | CCF2022 | CCF 2022 catalog (6th edition) rating | Yes | Must be one of: `A`, `B`, `C`, `TBD` |
 | CCF2026 | CCF 2026 catalog (7th edition) rating | Yes | Must be one of: `A`, `B`, `C`, `TBD` |
+| ICORE2026 | CORE Ranking 2026 edition | Yes | Must be one of: `A*`, `A`, `B`, `C`, `N/A` |
 
 > [!IMPORTANT]
 > - [1]: We strongly suggest including the data source for each entry. If it's a photo taken on-site, please upload to image hosting services such as [Imgur](https://imgur.com/), and [Imgchr](https://imgchr.com/).
 > - [2]: Only required when there is a secondary track.
-
-> [!NOTE]
-> We are still working on including **CORE Ranking** in OpenAccept.
 
 ## Adding New Conferences
 OAc primarily adopts the taxonomy used in [CCF's Recommended International Conferences and Journals Catalog (written in Chinese)](https://www.ccf.org.cn/Academic_Evaluation/By_category/) to categorize conferences into 10 topics:

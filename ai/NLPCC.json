@@ -55,6 +55,7 @@
   "remarks": "NLPCC accepts submissions writen in English or Chinese. Statistics provided here do not distinguish papers writen in either languages.",
   "ratings": {
     "CCF2022": "C",
-    "CCF2026": "C"
+    "CCF2026": "C",
+    "ICORE2026": "N/A"
   }
 }

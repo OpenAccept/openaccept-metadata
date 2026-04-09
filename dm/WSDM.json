@@ -77,6 +77,7 @@
   "remarks": "Statistics only cover full research papers, excluding short, workshop, ADS, and demo papers.",
   "ratings": {
     "CCF2022": "B",
-    "CCF2026": "B"
+    "CCF2026": "B",
+    "ICORE2026": "A"
   }
 }

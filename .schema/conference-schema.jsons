@@ -91,7 +91,7 @@
     },
     "ratings": {
       "type": "object",
-      "required": ["CCF2022", "CCF2026"],
+      "required": ["CCF2022", "CCF2026", "ICORE2026"],
       "additionalProperties": false,
       "properties": {
         "CCF2022": {
@@ -101,6 +101,10 @@
         "CCF2026": {
           "type": "string",
           "enum": ["A", "B", "C", "TBD"]
+        },
+        "ICORE2026": {
+          "type": "string",
+          "enum": ["A*", "A", "B", "C", "N/A"]
         }
       }
     }

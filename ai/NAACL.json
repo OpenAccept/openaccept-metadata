@@ -73,6 +73,7 @@
   "remarks": "NAACL is only held in Northern America. NAACL will be skipped when ACL is held in Northern America. In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue.",
   "ratings": {
     "CCF2022": "B",
-    "CCF2026": "B"
+    "CCF2026": "B",
+    "ICORE2026": "A"
   }
 }

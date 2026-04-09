@@ -103,6 +103,7 @@
   "remarks": "In *ACL venues, #submitted represents the # of original submissions to the ARR, rather than the # of commitments to the specific venue.",
   "ratings": {
     "CCF2022": "A",
-    "CCF2026": "A"
+    "CCF2026": "A",
+    "ICORE2026": "A*"
   }
 }
