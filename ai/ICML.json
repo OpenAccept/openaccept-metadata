@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/icml/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 6352,
+      "submitted": 23918
+    },
+    {
       "year": 2025,
       "accepted": 3260,
       "submitted": 12107
