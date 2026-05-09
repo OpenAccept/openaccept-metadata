@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/codesisss/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 25,
+      "submitted": 92,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3742873"
+    },
+    {
       "year": 2024,
       "accepted": 30,
       "submitted": 102

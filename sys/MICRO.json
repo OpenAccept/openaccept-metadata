@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/micro/index.html",
   "yearly_data": [
     {
+      "year": 2025,
+      "accepted": 123,
+      "submitted": 597,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3725843"
+    },
+    {
       "year": 2024,
       "accepted": 113,
       "submitted": 497,
