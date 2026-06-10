@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/cvpr/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 4071,
+      "submitted": 16092
+    },
+    {
       "year": 2025,
       "accepted": 2878,
       "submitted": 13008
