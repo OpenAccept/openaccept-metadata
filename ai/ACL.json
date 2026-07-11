@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/acl/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 2297,
+      "submitted": 12148
+    },
+    {
       "year": 2025,
       "accepted": 1699,
       "submitted": 8360,
@@ -73,6 +78,11 @@
   ],
   "second_track": "Findings",
   "second_track_yearly_data": [
+    {
+      "year": 2026,
+      "accepted": 2164,
+      "submitted": 12148
+    },
     {
       "year": 2025,
       "accepted": 1392,

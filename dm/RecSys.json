@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/recsys/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 65,
+      "submitted": 361
+    },
+    {
       "year": 2025,
       "accepted": 49,
       "submitted": 260
@@ -72,6 +77,11 @@
   ],
   "second_track": "Short Paper",
   "second_track_yearly_data": [
+    {
+      "year": 2026,
+      "accepted": 27,
+      "submitted": 152
+    },
     {
       "year": 2025,
       "accepted": 33,
