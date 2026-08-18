@@ -1,0 +1,32 @@
+{
+  "name": "MMSys",
+  "full_name": "ACM Multimedia Systems Conference",
+  "website": "https://acmmmsys.org/",
+  "dblp": "https://dblp.org/db/conf/mmsys/index.html",
+  "yearly_data": [
+    { "year": 2026, "submitted": 94, "accepted": 24, "source": "https://acmmmsys.org/" },
+    { "year": 2025, "submitted": 79, "accepted": 19, "source": "https://acmmmsys.org/" },
+    { "year": 2024, "submitted": 56, "accepted": 22, "source": "https://acmmmsys.org/" },
+    { "year": 2023, "submitted": 112, "accepted": 27, "source": "https://acmmmsys.org/" },
+    { "year": 2022, "submitted": 46, "accepted": 16, "source": "https://acmmmsys.org/" },
+    { "year": 2021, "submitted": 55, "accepted": 18, "source": "https://acmmmsys.org/" },
+    { "year": 2020, "submitted": 55, "accepted": 18, "source": "https://acmmmsys.org/" },
+    { "year": 2019, "submitted": 52, "accepted": 21, "source": "https://acmmmsys.org/" },
+    { "year": 2018, "submitted": 56, "accepted": 12, "source": "https://acmmmsys.org/" },
+    { "year": 2017, "submitted": 47, "accepted": 13, "source": "https://acmmmsys.org/" },
+    { "year": 2016, "submitted": 71, "accepted": 20, "source": "https://acmmmsys.org/" },
+    { "year": 2015, "submitted": 41, "accepted": 12, "source": "https://acmmmsys.org/" },
+    { "year": 2014, "submitted": 57, "accepted": 15, "source": "https://acmmmsys.org/" },
+    { "year": 2013, "submitted": 63, "accepted": 15, "source": "https://acmmmsys.org/" },
+    { "year": 2011, "submitted": 41, "accepted": 15, "source": "https://acmmmsys.org/" },
+    { "year": 2010, "submitted": 59, "accepted": 25, "source": "https://acmmmsys.org/" }
+  ],
+  "sources": [
+    "https://acmmmsys.org/"
+  ],
+  "ratings": {
+    "CCF2022": "TBD",
+    "CCF2026": "TBD",
+    "ICORE2026": "A"
+  }
+}
