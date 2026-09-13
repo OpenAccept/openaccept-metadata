@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/pods/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 41,
+      "submitted": 121
+    },
+    {
       "year": 2025,
       "accepted": 45,
       "submitted": 127
@@ -72,10 +77,12 @@
   ],
   "second_track": null,
   "sources": [
+    "https://dl.acm.org/doi/pdf/10.1145/3801890",
+    "https://dl.acm.org/doi/pdf/10.1145/3767708",
     "https://dl.acm.org/doi/pdf/10.1145/3695825",
     "https://dlnext.acm.org/doi/pdf/10.1145/3725224"
   ],
-  "remarks": "From 2025 onwards, PODS adopts a two-cycle submission process. #submitted and #accepted are the total number of two cycles. [2025] June cycle: 15/47; December cycle: 30/80.",
+  "remarks": "From 2025 onwards, PODS adopts a two-cycle submission process. Statistics listed above are the aggregation of two cycles. [2025] June cycle: 15/47; December cycle: 30/80. [2026] June cycle: 12/33; December cycle: 29/88.",
   "ratings": {
     "CCF2022": "B",
     "CCF2026": "B",

@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/mir/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 277,
+      "submitted": 788,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3805622#page=4.11"
+    },
+    {
       "year": 2025,
       "accepted": 211,
       "submitted": 515,
@@ -73,6 +79,12 @@
   ],
   "second_track": "Short Paper Track",
   "second_track_yearly_data": [
+    {
+      "year": 2026,
+      "accepted": 39,
+      "submitted": 144,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3805622#page=4.11"
+    },
     {
       "year": 2025,
       "accepted": 35,

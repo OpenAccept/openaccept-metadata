@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/pldi/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 106,
+      "submitted": 402,
+      "source": "https://dl.acm.org/doi/pdf/10.1145/3818664"
+    },
+    {
       "year": 2025,
       "accepted": 90,
       "submitted": 324,

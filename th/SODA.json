@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/soda/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 243,
+      "submitted": 809,
+      "source": "https://epubs.siam.org/doi/epdf/10.1137/1.9781611978971.fm"
+    },
+    {
       "year": 2025,
       "accepted": 192,
       "submitted": 655

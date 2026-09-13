@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/nsdi/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 150,
+      "submitted": 659,
+      "source": "https://www.usenix.org/sites/default/files/nsdi26-message.pdf"
+    },
+    {
       "year": 2025,
       "accepted": 83,
       "submitted": 565
