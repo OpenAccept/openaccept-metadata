@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/neurips/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 7900,
+      "submitted": 30709
+    },
+    {
       "year": 2025,
       "accepted": 5290,
       "submitted": 21575

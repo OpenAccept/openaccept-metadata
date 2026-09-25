@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/lics/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 82,
+      "submitted": 293,
+      "source": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol380-lics2026/LIPIcs.LICS.2026.0/LIPIcs.LICS.2026.0.pdf#page=11.32"
+    },
+    {
       "year": 2025,
       "accepted": 66,
       "submitted": 215,

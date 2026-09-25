@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/stoc/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 211,
+      "submitted": 752,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3798129"
+    },
+    {
       "year": 2025,
       "accepted": 219,
       "submitted": 735
