@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/icde/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 261,
+      "submitted": 1175,
+      "source": "https://ieeexplore.ieee.org/document/11629544"
+    },
+    {
       "year": 2025,
       "accepted": 300,
       "submitted": 1518

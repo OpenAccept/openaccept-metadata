@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/sigcomm/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 85,
+      "submitted": 445,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3789240#page=8.06"
+    },
+    {
       "year": 2025,
       "accepted": 75,
       "submitted": 463

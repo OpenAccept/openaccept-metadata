@@ -134,7 +134,7 @@ OAc primarily adopts the taxonomy used in [CCF's Recommended International Confe
         Computer Systems/Architecture</li>
     <li>
         <b>TH</b>:
-        Computing Theory</li>
+        Theory of Computing</li>
 </ul>
 
 In each category, conferences are classified into four tiers (A, B, C, and TBD) according to CCF's Catalog. [CORE Ranking](https://www.core.edu.au/conference-portal) is also used for reference.
