@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/colt/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 191,
+      "submitted": 657,
+      "source": "https://proceedings.mlr.press/v336/hanneke26a.html"
+    },
+    {
       "year": 2025,
       "accepted": 177,
       "submitted": 556

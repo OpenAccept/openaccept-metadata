@@ -6,6 +6,12 @@
   "yearly_data": [
     {
       "year": 2025,
+      "accepted": 189,
+      "submitted": 781,
+      "source": "https://link.springer.com/book/10.1007/978-3-032-35367-2"
+    },
+    {
+      "year": 2025,
       "accepted": 156,
       "submitted": 643,
       "source": "https://link.springer.com/book/10.1007/978-3-032-01855-7"

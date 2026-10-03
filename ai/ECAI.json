@@ -5,6 +5,12 @@
   "dblp": "https://dblp.uni-trier.de/db/conf/ecai/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 713,
+      "submitted": 5233,
+      "source": "https://s41.ax1x.com/2026/09/13/pneL5SU.png"
+    },
+    {
       "year": 2025,
       "accepted": 626,
       "submitted": 2667
@@ -51,7 +57,7 @@
     }
   ],
   "second_track": null,
-  "remarks": "In 2018 and 2022, ECAI was jointly hosted with IJCAI. From 2022 onwards, ECAI is hosted annually.",
+  "remarks": "In 2018, 2022, and 2026, ECAI was jointly hosted with IJCAI. From 2022 onwards, ECAI is hosted annually.",
   "ratings": {
     "CCF2022": "B",
     "CCF2026": "B",
