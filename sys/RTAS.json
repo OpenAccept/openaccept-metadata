@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/rtas/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 27,
+      "submitted": 108,
+      "source": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11558399"
+    },
+    {
       "year": 2025,
       "accepted": 30,
       "submitted": 109,
