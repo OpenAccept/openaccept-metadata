@@ -5,6 +5,11 @@
   "dblp": "https://dblp.org/db/conf/emnlp/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 2705,
+      "submitted": 17661
+    },
+    {
       "year": 2025,
       "accepted": 1811,
       "submitted": 8174
@@ -72,6 +77,11 @@
   ],
   "second_track": "Findings",
   "second_track_yearly_data": [
+    {
+      "year": 2026,
+      "accepted": 2480,
+      "submitted": 17661
+    },
     {
       "year": 2025,
       "accepted": 1418,
