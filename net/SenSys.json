@@ -5,6 +5,12 @@
   "dblp": "https://dblp.org/db/conf/sensys/index.html",
   "yearly_data": [
     {
+      "year": 2026,
+      "accepted": 99,
+      "submitted": 505,
+      "source": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3774906#page=15.12"
+    },
+    {
       "year": 2025,
       "accepted": 45,
       "submitted": 235,
